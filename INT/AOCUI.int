@@ -1,0 +1,836 @@
+[Common]
+Draw=Draw!
+WinnerWinsSingular=The {WINNER} wins!
+WinnerWinsPlural={WINNER} victory!
+Loading=Loading
+Victory=Victory
+IsVictorious=is Victorious
+Defeat=Defeat
+All=All
+JoinGame=Join game
+CreateGame=Offline game
+Configuration=Configuration
+Profile=Profile
+Customization=Customization
+Exit=Exit
+Return=Return
+Finish=Finish
+Credits=Credits
+Save=Save
+ResetToDefault=Reset to defaults
+Training=Training
+StartGame=Start game
+LeaveGame=Leave game
+Confirm=Confirm
+Cancel=Cancel
+ChooseClass=Change class
+SwitchTeam=Switch team
+ClassSelection=Class Selection
+TeamSelection=Team Selection
+RandomSelect=Select random
+; Note - {NUM} is replaced with the actual number of players. Place {NUM} appropriately for each language.
+; Note - KEEP {NUM} IN ALL TRANSLATIONS.
+NumPlayers={NUM} Players
+Place1=1st
+Place2=2nd
+Place3=3rd
+Place4=4th
+Place5=5th
+Place6=6th
+YourMedals=Your Medals
+ReshuffleCount=Reshuffle - {COUNT}
+Failed=Failed
+PingHigh=Your ping is too high
+
+Archer=Samurai
+Knight=Knight
+ManAtArms=Ninja
+Vanguard=Spartan
+Default=Default
+WinText=Wins
+LoseText=Losses
+
+Samurai=Samurai
+Knight=Knight
+Viking=Viking
+Ninja=Ninja
+Pirate=Pirate
+Spartan=Spartan
+
+TeamsText=Teams
+TeamBlue=Blue Team
+TeamRed=Red Team
+TeamGreen=Green Team
+TeamPink=Pink Team
+TeamBlack=Black Team
+TeamWhite=White Team
+
+TeamSamurai=Samurai
+TeamKnight=Knights
+TeamViking=Vikings
+TeamNinja=Ninja
+TeamPirate=Pirates
+TeamSpartan=Spartans
+
+Red=Red
+Blue=Blue
+Green=Green
+Pink=Pink
+Black=Black
+White=White
+
+;This string is used in the game when you have multiple teams restricted to the same class, and need to use colours to differentiate them.
+;e.g.: "Red Vikings", where the keys were "Red" (=>"Red") and "TeamViking" (=>"Vikings")
+TeamClassColorRestrictedName={COLOR} {CLASSTEAMNAME}
+
+vs=vs.
+and=and
+OpenClasses=Open warrior selection
+EveryoneElse=Everyone else
+
+VikingMap=Fjord
+NinjaMap=Bamboo
+PirateMap=Isle
+KnightMap=Valley
+SamuraiMap=Fortress
+SpartanMap=Acropolis
+
+Small=Small
+Medium=Medium
+Large=Large
+
+EXP=EXP
+
+[VictoryText]
+TeamSamurai=Samurai
+TeamKnight=Knight
+TeamViking=Viking
+TeamNinja=Ninja
+TeamPirate=Pirate
+TeamSpartan=Spartan
+
+TeamsText=Teams
+TeamBlue=Blue Team
+TeamRed=Red Team
+TeamGreen=Green Team
+TeamPink=Pink Team
+TeamBlack=Black Team
+TeamWhite=White Team
+
+#TeamSamurai=Samurai
+#TeamKnight=Knights
+#TeamViking=Vikings
+#TeamNinja=Ninja
+#TeamPirate=Pirates
+#TeamSpartan=Spartans
+
+Red=Red
+Blue=Blue
+Green=Green
+Pink=Pink
+Black=Black
+White=White
+
+[Confirm]
+PasswordTxt=Input Password
+Warning=Warning
+; {EXTRA1} replaced by key name.
+ConfirmEmptyKeyInfo=Are you sure that you don't want to bind a key to {EXTRA1}?
+ConfirmKeyChangeTitle=Confirm key change
+; {EXTRA1} and {EXTRA2} replaced by key name. {EXTRA3} is the command name.
+ConfirmKeyChangeInfo=Are you sure you want to use {EXTRA1} instead of {EXTRA2} for {EXTRA3}?
+Information=Information
+Success=Success!
+CustomizationChangeText=You have successfully changed your customization settings!
+PleaseWaitGameLoadText=Please wait while the game loads...
+GenericFailureToJoin=You have failed to join the server.
+ConfirmResetVideoText=Are you sure you want to reset your video settings?
+ConfirmExitText=Are you sure you wish to exit the game?
+ServerFullError=This server is full.
+
+[Modes]
+CDW.AOCTD=Team Deathmatch
+CDW.AOCTDMultiTeam=Multi-Team Deathmatch
+CDW.AOCFFA=Free For All
+CDW.AOCLTS=Last Team Standing
+CDW.AOCLTSMultiTeam=Multi-Team Last Team Standing
+CDW.AOCCTF=Capture The Flag
+CDW.AOCCTFMultiTeam=Multi-Team Capture The Flag
+CDW.AOCKOTH=King Of The Hill
+CDW.AOCKOTHMultiTeam=Multi-Team King Of The Hill
+CDW.AOCDUEL=Duel Mode
+CDW.AOCDUELMultiTeam=Multi-Team Duel
+CDW.CDWPlantTheBanner=Plant The Banner
+CDW.CDWPlantTheBannerMultiTeam=Multi-Team Plant The Banner
+CDW.CDWHoldTheBanner=Hold The Banner
+CDW.CDWHoldTheBannerMultiTeam=Multi-Team Hold The Banner
+CDW.CDWDUEL=Duel Mode
+
+[ClassSelect]
+MainHeaderTxt=Select Class
+ArmorTxt=Armour:
+SpeedTxt=Speed:
+
+[TeamSelect]
+SpectateTxt=Spectate
+AttackingTask=Attacking
+DefendingTask=Defending
+
+[Config]
+Video=Video
+Audio=Audio
+Input=Input
+Keybinds=Keybinds
+savebtn=Save and exit
+save_confirm_saveandexit=Save and exit
+save_confirm_discard=Discard and exit
+save_confirm_cancel=Cancel
+creditsbtn=Credits
+save_confirm_text=Do you want to save?
+save_confirm_warning_text=Warning, some changes require a restart before taking effect*
+CustomizationHeaderLabel=Configuration
+
+[Video]
+ResolutionText=Resolution
+FullscreenText=Fullscreen
+DetailModeText=Detail mode
+DynamicLightText=Dynamic lights
+DynamicShadowText=Dynamic shadows
+BloomText=Bloom
+DOFText=Depth of field
+VsyncText=Vertical sync
+MotionBlurText=Motion blur
+ParticleQualityText=Particle quality
+ModelQualityText=Character quality
+TextureQualityText=Texture quality
+FoliageQualityText=Foliage quality
+FOVText=Field of view
+AOText=Ambient Occlusion
+SSAOText=SSAO Quality
+PPMLAAText=Post Process MLAA
+MaxAnisotropyText=Max anisotropy
+MaxMultiSamplesText=Max multi-Samples
+AllowD3DMSAAText=Allow D3D9 MSAA
+AllowTempAAText=Allow Temporal AA
+TemporalAAMinimumDepthText=Temporal AA min depth
+TemporaAAStartDepthScaleText=Temporal AA start depth velocity scale
+LightShaftsText=Light shafts
+FOVText=Field of view
+RagdollText=Ragdoll length
+BloodDecalText=Blood decal length
+vignette_text=Vignette
+AFQualityText=Anisotropic filtering
+Antialiasing=Antialiasing
+PostProcessing=Post-processing
+
+
+[Keybinds]
+KeybindSettings=Keybind settings
+AllText=All
+CombatText=Combat
+MovementText=Movement
+UtilityText=Utility
+ResetText=Reset
+DeleteText=Delete keybind
+BindNotification=Press a key to bind
+ExtraOptionsText=Extra options
+ToggleSprintOption=Toggle sprint
+OneButtonDodge=One-Button dodge
+
+[Audio]
+AudioSettings=Audio Settings
+MasterText=Master
+MusicText=Music
+AmbientText=Ambient
+CharacterText=Character
+UIText=UI
+ChatterText=Chatter
+PersistentMusicText=Ambient music
+ChannelsText=Maximum channels
+
+[Input]
+InputSettings=Input Settings
+MouseSensitivityText=Mouse sensitivity
+DoubleTapTimeText=Double tap time
+InvertTurnText=Invert turn
+InvertMouseText=Invert mouse
+MouseSmoothingText=Mouse smoothing
+DisableChatText=Disable chat
+HintsText=Hints
+CrosshairText=Crosshair
+ToggleSprintText=Toggle Sprint
+OneButtonDodgeText=One Button Dodge
+
+[Options]
+True=True
+False=False
+On=On
+Off=Off
+Fullscreen=Fullscreen
+Windowed=Windowed
+Borderless=Borderless
+Low=Low
+MediumLow=Medium Low
+Medium=Medium
+MediumHigh=Medium High
+High=High
+Moderate=Moderate
+FXAA1=FXAA Low
+FXAA3=FXAA Normal
+FXAA5=FXAA High
+MLAA=MLAA
+1x=1x
+2x=2x
+4x=4x
+8x=8x
+16x=16x
+
+[CreateGame]
+GameTypeText=Game type:
+BotCountText=Number of bots:
+ServerText=Host server
+
+[JoinGame]
+Connect=Connect
+Refresh=Refresh
+ServerNameText=Server name
+PlayersText=Players
+GametypeText=Mode
+ModNameText=Game
+MaxPingText=Max ping:
+MapText=Map
+PingText=Ping
+GameTypeText=Game mode
+ServersText=Servers
+HistoryText=History
+FavoritesText=Favourites
+FriendsText=Friends
+VacServerText=VAC required
+HideEmptyServerText=Hide empty servers
+HideFullServerText=Hide full servers
+HidePasswordText=Hide passworded servers
+AddToFavoriteText=Add to Favourites
+RemoveFromFavoriteText=Remove from Favourites
+ServerFullError=Server is full!
+ViewInfoText=View server info
+ServerIPText=Server IP
+GameSpeedTxt=Game speed
+FriendlyFireText=Friendly fire
+ChatOptionText=Chat
+PlayerScoreText=Score
+TimePlayedText=Time
+PlayerNameText=Player name
+CountryText=Country
+GameModeText=Game mode
+UseRankFilterText=Use Rank Filter
+MinRankText=Min rank
+MaxRankText=Max rank
+MinRankHeader=Mod
+MaxRankHeader=Rank
+PerspectiveText=Perspective
+FirstPerson=First person
+ThirdPerson=Third person
+
+ShowFilterText=Open server filter
+RefreshingServersText=Retrieving servers
+CloseFilterText=Close server filter
+ApplyFilterText=Apply filter
+SaveFilterText=Save filter
+LoadFilterText=Load filter
+ResetFilterText=Reset filter
+FilterEnabledText=Filters enabled!
+
+EntryMapped=Map
+EntryModded=Mod
+EntryVanilla=None
+EntryAny=Any
+
+[Profile]
+Stats=Stats
+Achievements=Achievements
+Customization=Customization
+
+[Scoreboard]
+; Scoreboard Section
+LocationText=You are playing at:
+Name=Name
+Class=Class
+Score=Score
+Ping=Ping
+Status=Status
+Alive=Alive
+Dead=Dead
+Kills=Kills
+Deaths=Deaths
+Assists=Assists
+TeamScore=Score
+; Objective Section
+ObjectiveStatusText=Objective status
+OverallProgressText=Overall progress
+LastObjectiveText=Last objective
+NextObjectiveText=Next objective
+CurrentObjectiveText=Current objective
+; Stat Section
+ScoreText=Score:
+KillsText=Kills:
+DeathsText=Deaths:
+PointsText=Points:
+DecapsText=Decaps:
+AssistText=Assists:
+ObjectivesPointsText=Objective:
+AccuracyText=Accuracy:
+KDRatioText=K/D Ratio:
+ExecutionsText=Executions:
+DamageDealtText=Damage dealt:
+DamageTakenText=Damage taken:
+TimeCompletedText=Time completed:
+presstoenablemouselabel=Press B (default) to enable mouse!
+MouseEnabledText=Press Tab (default) to close the scoreboard!
+Rank=Rank
+; Extra Options section
+RegularOptions=Player Options
+GeneralOptions=Global Options
+AdminOptions=Admin Options
+VoteKick=Vote kick
+Mute=Mute
+UnMute=Unmute
+MuteAll=Mute all
+UnMuteAll=Unmute all
+AdminKick=Admin kick
+AdminBan=Admin ban
+AdminMute=Admin mute
+AdminUnMute=Admin unmute
+TeamPoints=points
+points_text=points
+players_text=players
+time_remaining=Time remaining
+
+[Hud]
+; Note - {NUM} is replaced with the actual number of seconds. Place {NUM} appropriately for each language.
+; Note - KEEP {NUM} IN ALL TRANSLATIONS.
+RespawnText=Respawning in {NUM} seconds...
+AmmoTextLbl=Ammo
+; Note - {NUM} is replaced with the actual number of ammo found. Place {NUM} appropriately for each language.
+; Note - KEEP {NUM} IN ALL TRANSLATIONS.
+FindAmmoText=+{NUM} Ammo
+AllText=All
+TeamText=Team
+VOTactical=Tactical Messages
+VOPersonal=Personal Messages
+VOGeneral=Voice Over
+RankUpNotif=Rank {NUM} reached!
+YourTeam=Your team: {TEAMNAME}
+LTSWaitingToSpawn=Waiting for next round
+PartialHintControls=\n\n{KEY1} - hide
+FullHintControls={KEY1} - previous\n{KEY2} - next\n{KEY3} - hide
+KilledByText=You were killed by
+rank_up_text=Rank up
+
+[VO]
+ZVODescription0=Follow me
+ZVODescription1=Forward
+ZVODescription2=Retreat
+ZVODescription3=Kill archers
+ZVODescription4=Go for the Objective
+ZVODescription5=Hold your ground
+ZVODescription6=Defend me
+ZVODescription7=Incoming
+ZVODescription8=Behind us
+ZVODescription9=All clear
+XVODescription0=Yes
+XVODescription1=No
+XVODescription2=Help
+XVODescription3=Got your back
+XVODescription4=Thanks
+XVODescription5=You're welcome
+XVODescription6=Sorry
+XVODescription7=Taunt
+XVODescription8=Laugh
+XVODescription9=Respect
+
+[WeaponSelect]
+WeaponSelectTitle=Select Weapons
+InformationTextLbl=Information
+PrimaryTxt=Primary
+SecondaryTxt=Secondary
+SpecialTxt=Special
+SelectedPrimaryTxt=Selected primary
+SelectedSecondaryTxt=Selected secondary
+SelectedSpecialTxt=Selected special
+MoreDetailsTxt=More details
+DamageTxt=Damage:
+SpeedTxt=Speed:
+ReachTxt=Reach:
+RateTxt=Rate:
+RangeTxt=Range:
+AmmoTxt=Ammo:
+TypeTxt=Type:
+WeightTxt=Weight:
+SizeTxt=Size:
+StaminaCostTxt=Stamina cost:
+RecoverTimeTxt=Recover time:
+DamageTypeTxt=Damage type:
+BlockStrengthTxt=Block strength:
+PrimaryAttackTxt=Primary attack
+SecondaryAttackTxt=Secondary attack
+TertiaryAttackTxt=Tertiary attack
+MainInfoTxt=Main Info
+DetailViewTxt=Detailed View
+
+[Hat]
+HelmetSettings=Helmet Selection
+
+[Vote]
+BalanceTeams=Balance the teams?
+KickPlayer=Kick player?
+RestartMap=Restart map?
+; {MAP} replaced with actual map name.
+SwitchMap=Change map?
+Votes=Votes!
+VoteEnding=Voting ends in:
+Yes=YES!
+No=NO!
+IgnoreVote=F4 (Default) to ignore vote and close!
+ChangeMapEffect=Changing map in:
+BalanceEffect=Balancing teams in:
+YouVote=You
+VoteEnd=Vote ended!
+
+TeamDamage=Team damage
+IdleTime=Idle time
+Seconds=seconds
+
+[Duel]
+Wins=Wins
+Loss=Loss
+Hours=Duel Hours
+FavoriteClass=Favourite class
+FavoritePrim=Favourite primary
+FavoriteSec=Favourite pecondary
+Stats=Stats
+Session=This Session
+AllTime=All Time
+VsYou=VS You
+ChangeLoadout=Change loadout
+TotalDuels=Total duels:
+c_name_text=Player name
+c_pool_text=Pool
+c_wl_text=W/L
+c_status_text=Status
+c_challenge_text=Challenge
+InPool=In Pool
+DuelingStatus=In Duel
+WaitingStatus=Waiting
+SpectatingStatus=Spectating
+PoolStatus=In Pool
+LoadoutStatus=Loadout
+JoinPool=Join Pool
+LeavePool=Leave Pool
+CurMatches=Current matches
+Spectate=Spectate
+ChangeLoadout=Change loadout
+RematchButton=Rematch
+JoinPoolButton=Join Pool
+RetMenuButton=Return to menu
+ActionEndDuel=Automatically {ACTION} in {NUM} seconds...
+WaitingForOpp=You are in the pool. Awaiting opponent...
+NotInPool=You are not in the pool. Press ({KEY}) for the Duel Menu.
+WaitDuelFinish=Waiting for all duels to finish.
+AcceptedChallenge={PLAYER} has accepted your challenge!
+
+[Loadout]
+SpectateButton=Spectate
+RandomButton=Random
+StartButton=Join
+HeaderLabel=Loadout
+WeaponTabButtonA=Primary
+WeaponTabButtonB=Secondary
+WeaponTabButtonC=Tertiary
+
+[Scoring]
+ScorePeasant=NPC KILL
+ScoreBurnSignal=SIGNAL BURN
+ScoreLightSignal=SIGNAL LIT
+ScoreExtinguishSignal=SIGNAL EXTINGUISHED
+ScoreKill=KILL
+ScoreKillStreak=KILL STREAK
+ScoreKillJoy=KILL JOY
+ScorePTBCapture=BANNER PLANTED
+ScoreRamBatter=RAM HIT
+ScoreTeamkill=TEAM KILL
+ScoreSuicide=SUICIDE
+ScoreTeamSwitch=TEAM SWITCH
+ScoreAssist=KILL ASSIST
+ScoreGenericObjectivePoints=OBJECTIVE SCORE
+ScoreFirstBlood=FIRST BLOOD
+ScoreDecap=DECAPITATION
+ScoreHeadshot=HEADSHOT
+ScoreHeadExplode=HEAD EXPLOSION
+SurviveLTSRound=SURVIVED ROUND
+TeamVictory=Team Victory
+ScoreBannerCarrierKill=BANNER CARRIER KILL
+ScorePTBDefend=BANNER DEFEND
+ScorePTBAssist=BANNER ASSIST
+ScoreHTBHoldBanner=HOLD BANNER
+
+[PostGame]
+exp_earned_desc=Exp Earned
+exp_needed_desc=Exp Needed
+level_desc=Level
+next_level_desc=Next level
+damage_done_desc=Damage done
+damage_taken_desc=Damage taken
+damage_blocked_desc=Damage blocked
+longest_death_streak_desc=Longest death streak
+medals_earned_desc=Medals earned
+your_nemesis_desc=Your nemesis
+easy_target_desc=Easy target
+score_per_minute_desc=Score per minute
+decapitations_desc=Decapitations
+joinBattleButton=Join Game
+AllTeams=All teams
+kills_desc=Kills
+deaths_desc=Deaths
+assists_desc=Assists
+initial_text_tip=Select Class icons to see individual Stats
+Votes=Votes
+VoteNow=Vote Now
+[Stats]
+EXPEarned=EXP Earned
+EXPNeeded=EXP Needed
+Rank=Rank
+RankNext=Next Rank
+UnlockedAtRank=Unlocked At Rank {RANK}
+Unlocked=Unlocked
+PLayerProfileTitle=Player Profile
+single_life_records=Single Life Records
+duel_records=Dueling Records
+single_battle_records=Single Battle Records
+all_time_records=All Time Records
+weapon_filter_text=Weapons
+medal_records=Medal Records
+medals_earned=Medal Earned
+favourite_warrior_label=Your Favourite Warriors
+favourite_weapon_you_label=Most kills
+favourite_weapon_you_label_all=Most kills
+favourite_weapon_stats2_you_label=Most Efficient
+favourite_weapon_stats2_label_all=Most Efficient
+favourite_weapon_global_desc=Most Kills
+most_headshots_weapon_global_desc=Most Headshots
+progress_bar_class_weekly_desc=Weekly Score
+progress_bar_class_total_desc=All Time Score
+LIFE_EXP= Single Life Experience Gained
+LIFE_DMGDEALT=Single Life Damage Dealt
+LIFE_DMGBLOCKED=Single Life Damage Blocked
+LIFE_DMGTAKEN=Single Life Damage taken
+LIFE_DECAPS=Single Life Decapitations
+LIFE_KILLS=Single Life Kills
+LIFE_HSHOTS= Single Life Headshots
+LIFE_HEXPLODES=Single Life Head Explosions
+LIFE_LIFETIME=Longest Time Spent Alive
+BATTLE_DUEL_WON=Battle Duels Won
+BATTLE_DUEL_LOST=Battle Duels Lost
+BATTLE_DUEL_WINSTREAK=Battle Duel Win Streak
+BATTLE_DUEL_LOSESTREAK=Battle Duel Lose Streak
+ALL_DUELS_WON=Total Duel Wins
+ALL_DUELS_LOST=Total Duel Losses
+ALL_ATTACKS=Total Number of Attacks
+ALL_HITS=Total Number of Hits
+TOTAL_KILLS=Total Kills
+TOTAL_DEATHS=Total Deaths
+KD_RATIO=K/D Ratio
+TOTAL_ACCURACY=Accuracy
+BATTLE_EXP=Battle Experience Gained
+BATTLE_DMGDEALT=Battle Damage Dealt
+BATTLE_DMGBLOCKED=Battle Damage Blocked
+BATTLE_DMGTAKEN=Battle Damage Taken
+BATTLE_KILLS=Battle Kills
+BATTLE_DECAPS=Battle Decapitations
+BATTLE_HSHOTS=Battle Headshots
+BATTLE_HEXPLODES=Battle Head Explosions Inflicted
+BATTLE_DEATHS=Battle Deaths
+BATTLE_DEATHSTREAK=Battle Death Streak
+BATTLE_ASSISTS=Battle Assists
+BATTLE_MEDALS=Battle Accolades
+BATTLE_EXPPERMIN=Battle Experience per Min
+ALL_EXP=Total Experience Gained
+ALL_TIMEPLAYED=Total Time Played
+ALL_DMGDEALT=Total Damage Dealt
+ALL_DMGBLOCKED=Total Damage Blocked
+ALL_DMGTAKEN=Total Damage Taken
+ALL_TEAMDMGDEALT=Total Team Damage Dealt
+ALL_TEAMDMGTAKEN=Total Team Damage Received
+ALL_KILLS=Total Kill Count
+ALL_DEATHS=Total Deaths
+ALL_DECAPS=Total Decapitations Inflicted
+ALL_HSHOTS=Total Headshots
+ALL_HEXPLODES=Head Explosions Induced
+ALL_ASSISTS=Total Number of Assists
+ALL_ATTACKS=Total Attacks Made
+ALL_HITS=Total Hits Landed
+ALL_MEDALS=Total Medals Earned
+ALL_LIVES=Total Lives
+ALL_DTRAVELED=Total Distance Travelled
+default_tier_name=Default Tier
+tier1_name=Tier 1
+tier2_name=Tier 2
+tier3_name=Tier 3
+tier4_name=Tier 4
+Days=Days
+Day=Day
+Remaining=Remaining
+Hours=Hours
+Hour=Hour
+global_stats_all_header_label=Global Player Stats
+PastEvent=Past Event
+global_stats_header_label=Global Player Stats
+CurrenLeader=Current Leader:
+PastLeader=Previous Winner:
+
+[UnlockItems]
+SWF.icon_samurai_weapon_01_png=CDWWeapon_Wakizashi
+SWF.icon_samurai_weapon_02_png=CDWWeapon_Kanabo
+SWF.icon_samurai_weapon_03_png=CDWWeapon_YariSpear
+SWF.icon_samurai_weapon_04_png=CDWWeapon_Nodachi
+SWF.icon_samurai_weapon_05_png=CDWWeapon_Naginata
+SWF.icon_spartan_weapon_01_png=CDWWeapon_Sarissa
+SWF.icon_spartan_weapon_02_png=CDWWeapon_SpartanJavelinMelee
+SWF.icon_spartan_weapon_03_png=CDWWeapon_Kopis
+SWF.icon_spartan_weapon_04_png=CDWWeapon_Falcata
+SWF.icon_spartan_weapon_05_png=CDWWeapon_ShortSpear
+SWF.icon_viking_weapon_01_png=CDWWeapon_Dane
+SWF.icon_viking_weapon_02_png=CDWWeapon_Hatchet
+SWF.icon_viking_weapon_03_png=CDWWeapon_Spear
+SWF.icon_viking_weapon_04_png=CDWWeapon_DoubleAxe
+SWF.icon_viking_weapon_05_png=CDWWeapon_Hammer
+SWF.icon_knight_weapon_01_png=AOCWeapon_Heater_Agatha
+SWF.icon_knight_weapon_02_png=CDWWeapon_PoleAxe
+SWF.icon_knight_weapon_03_png=CDWWeapon_ThrowingKnife
+SWF.icon_knight_weapon_04_png=CDWWeapon_Mace
+SWF.icon_knight_weapon_05_png=CDWWeapon_Halberd
+SWF.icon_ninja_weapon_01_png=CDWWeapon_BoStaff
+SWF.icon_ninja_weapon_02_png=CDWWeapon_Sickle
+SWF.icon_ninja_weapon_03_png=CDWWeapon_BlackEgg
+SWF.icon_ninja_weapon_04_png=CDWWeapon_SmokeBomb
+SWF.icon_ninja_weapon_05_png=CDWWeapon_Claws
+SWF.icon_pirate_weapon_01_png=CDWWeapon_BoardingAxe
+SWF.icon_pirate_weapon_02_png=CDWWeapon_Blunderbuss
+SWF.icon_pirate_weapon_03_png=CDWWeapon_Shank
+SWF.icon_pirate_weapon_04_png=CDWWeapon_FlamingRum
+SWF.icon_pirate_weapon_05_png=CDWWeapon_Sabre
+
+SWF.icon_samurai_weapon_default_01_png=CDWWeapon_Yumi
+SWF.icon_samurai_weapon_default_02_png=CDWWeapon_Katana
+SWF.icon_spartan_weapon_default_01_png=CDWWeapon_Dory
+SWF.icon_spartan_weapon_default_02_png=CDWWeapon_Xiphos
+SWF.icon_viking_weapon_default_01_png=CDWWeapon_NorseSword
+SWF.icon_viking_weapon_default_02_png=CDWWeapon_VikingShield
+SWF.icon_knight_weapon_default_01_png=CDWWeapon_SwordOfWar
+SWF.icon_knight_weapon_default_02_png=CDWWeapon_Crossbow
+SWF.icon_ninja_weapon_default_01_png=CDWWeapon_Ninjato
+SWF.icon_ninja_weapon_default_02_png=CDWWeapon_Shuriken
+SWF.icon_pirate_weapon_default_01_png=CDWWeapon_Pistole
+SWF.icon_pirate_weapon_default_02_png=CDWWeapon_Cutlass
+
+[Titles]
+Title=Title
+default_title_description=Your titles let your foes know of your impressive exploits when you slay them!
+knight_title_00=Nobody
+knight_title_01=Squire
+knight_title_02=Knight
+knight_title_03=Freelancer
+knight_title_04=Crusader
+knight_title_05=Champion
+knight_title_description_01=The Squire was the entry level unpaid internship of its day. A dangerous job for someone with little to no options.
+knight_title_description_02=The knight was the entry level unpaid internship of its day. A dangerous job for someone with little to no options.
+knight_title_description_03=The freelancer was the entry level unpaid internship of its day. A dangerous job for someone with little to no options.
+knight_title_description_04=The crusader was the entry level unpaid internship of its day. A dangerous job for someone with little to no options.
+knight_title_description_05=The championwas the entry level unpaid internship of its day. A dangerous job for someone with little to no options.
+
+[Emblems]
+Emblem=Emblem
+default_emblem_description=Use emblems to paint and pattern your character!
+knight_emblem_00=Default Knight Emblems
+knight_emblem_01=Knight Emblems 1
+knight_emblem_02=Knight Emblems 2
+knight_emblem_03=Knight Emblems 3
+knight_emblem_04=Knight Emblems 4
+knight_emblem_05=Knight Emblems 5
+knight_emblem_description_01=Agathian cross, Knights Templar, BokBok, MasonEagle
+knight_emblem_description_02=St. James, Griffin, Clover, Aviz, Double fist
+knight_emblem_description_03=Santiage, Bearknight, Holy Sepulchre, Harp, Sme
+knight_emblem_description_04=Knights, Sailfish, Fleury, Sun, Mason fist
+knight_emblem_description_05=Ord, Meowric, Fleur, Rose
+
+[Accessories]
+Accessory=Accessory
+default_accessory_description=Your accessories can be equipped to personalize your warrior on the battlefield!
+knight_accessory_00=Default Knight Accessories
+knight_accessory_01=Knight Accessories 1
+knight_accessory_02=Knight Accessories 2
+knight_accessory_03=Knight Accessories 3
+knight_accessory_04=Knight Accessories 4
+knight_accessory_05=Knight Accessories 5
+knight_accessory_description_01=Agatha Knight Veteran Helm Open
+knight_accessory_description_02=Mason Knight Veteran Helm
+knight_accessory_description_03=Agatha Vanguard Veteran Helm
+knight_accessory_description_04=Agatha MAA Veteran Helm
+knight_accessory_description_05=Agatha Knight Veteran Helm
+
+[EventMessages]
+FirstBloodDesc=scored first blood!
+
+[Duel]
+ChallengeTitle=Challenged!
+winsText=Wins
+totalWinsText=Total
+losesText=Losses
+totalLosesText=Total
+acceptText=1: Accept
+denyText=2: Deny
+alwaysDenyText=3: Always Deny
+RematchTitle=Rematch?
+
+[MedalNames]
+EMS_MAXKILLSTREAK=Achilles
+EMS_MAXDMGRATIO=Tactician
+EMS_MAXASSISTS=Squire
+EMS_MAXDMGBLOCKED=Defender
+EMS_MAXKILLSDEATHS=Beserker
+EMS_MAXWEAPONSUSED=Rogue
+EMS_MAXSPECIALKILLS=Intimidator
+EMS_MAXDTRAVELED=Explorer
+EMS_MINDMGTAKEN=Elusive
+EMS_MAXRANGEDDMGTAKEN=Pincushion
+EMS_MAXPERLIFEDMGTAKEN=The Bleeder
+EMS_MAXDEATHS=Sword Fodder
+EMS_MAXTEAMDMGDEALT=Embarrassment
+EMS_MAXRANGEDKILLS=Robinhood
+EMS_MAXEXP=Hero
+EMS_MAXDMGDEALT=Devastator
+EMS_MAXKDR=Deadliest Warrior
+EMS_MAXKILLS=Slayer
+EMS_1STBLOOD=Swift Strike
+EMS_MINDMGDEALT=Pacifist
+
+[MedalDescriptions]
+EMS_MAXKILLSTREAK=Longest kill streak
+EMS_MAXDMGRATIO=Highest damage delivered/received
+EMS_MAXASSISTS=Most assists
+EMS_MAXDMGBLOCKED=Most damage negated
+EMS_MAXKILLSDEATHS=Highest kills + deaths
+EMS_MAXWEAPONSUSED=Most weapons with at least one kill
+EMS_MAXSPECIALKILLS=Most special kills
+EMS_MAXDTRAVELED=Greatest distance traveled
+EMS_MINDMGTAKEN=Least damage received
+EMS_MAXRANGEDDMGTAKEN=Most ranged damage received
+EMS_MAXPERLIFEDMGTAKEN=Most damage taken in one life
+EMS_MAXDEATHS=Most deaths
+EMS_MAXTEAMDMGDEALT=Most damage dealt to own team
+EMS_MAXRANGEDKILLS=Most ranged kills
+EMS_MAXEXP=Most points in battle
+EMS_MAXDMGDEALT=Greatest damage
+EMS_MAXKDR=Best kill/death ratio
+EMS_MAXKILLS=Most kills
+EMS_1STBLOOD=First blood
+EMS_MINDMGDEALT=Least damage dealt

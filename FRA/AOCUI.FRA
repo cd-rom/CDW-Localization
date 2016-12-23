@@ -1,0 +1,283 @@
+[Common]
+JoinGame=Rejoindre la partie
+CreateGame=Créer la partie
+Configuration=Configuration
+Profile=Profil
+Exit=Quitter
+Return=Retour
+Finish=Terminer
+Save=Sauvegarder
+ResetToDefault=Réinitialiser par défaut
+Training=Entraînement
+StartGame=Démarrer la partie
+LeaveGame=Quitter la partie
+Confirm=Confirmer
+Cancel=Annuler
+ClassSelection=Sélection de la classe
+TeamSelection=Sélection de l'équipe
+RandomSelect=Sélection aléatoire
+; Note - {NUM} is replaced with the actual number of players. Place {NUM} appropriately for each language.
+; Note - KEEP {NUM} IN ALL TRANSLATIONS.
+NumPlayers={NUM} Joueurs
+AgathaKnights=Chevaliers d'Agatha
+MasonOrder=Ordre de Mason
+Archer=Archer
+Knight=Chevalier
+ManAtArms=Combattant
+Vanguard=Conquérant
+All=Tout
+Default=Par défaut
+
+[Confirm]
+Warning=Avertissement
+; {EXTRA1} replaced by key name.
+ConfirmEmptyKeyInfo=Voulez-vous vraiment ne pas configurer de commande pour {EXTRA1} ?
+ConfirmKeyChangeTitle=Confirmation Changement de touche
+; {EXTRA1} and {EXTRA2} replaced by key name. {EXTRA3} is the command name.
+ConfirmKeyChangeInfo=Voulez-vous vraiment utiliser {EXTRA1} à la place de {EXTRA2} pour {EXTRA3} ?
+Information=Information
+Success=Succès !
+CustomizationChangeText=Vous avez modifié vos paramètres personnalisés avec succès !
+PleaseWaitGameLoadText=Veuillez patienter pendant le chargement de la partie...
+ConfirmResetVideoText=Voulez-vous vraiment réinitialiser vos paramètres vidéo ?
+ConfirmExitText=Voulez-vous vraiment quitter la partie ?
+PasswordTxt=Saisir le mot de passe
+GenericFailureToJoin=Vous n'avez pas pu rejoindre le serveur.
+
+[ClassSelect]
+MainHeaderTxt=Sélectionner la classe
+ArmorTxt=Armure :
+SpeedTxt=Vitesse :
+
+[TeamSelect]
+SpectateTxt=Spectateur
+AttackingTask=Attaque
+DefendingTask=Défense
+
+[Config]
+Video=Vidéo
+Audio=Audio
+Input=Entrée
+Keybinds=Touches attribuées
+Helmet=Personnalisation du heaume
+
+[Video]
+ResolutionText=Résolution :
+FullscreenText=Plein écran :
+DetailModeText=Mode détaillé :
+DynamicLightText=Lumières dynamiques :
+DynamicShadowText=Ombres dynamiques :
+BloomText=Flou lumineux :
+DOFText=Profondeur de champ :
+VsyncText=Synchronisation verticale :
+MotionBlurText=Flou cinétique :
+ParticleQualityText=Qualité des particules :
+ModelQualityText=Qualité des personnages :
+TextureQualityText=Qualité des textures :
+FoliageQualityText=Qualité de la végétation :
+FOVText=Champ de vision :
+AOText=Occlusion ambiante :
+SSAOText=Qualité SSAO :
+PPMLAAText=Anticrénelage morphologique en post-traitement :
+MaxAnisotropyText=Anisotropie max :
+MaxMultiSamplesText=Multi-échantillonnage max :
+AllowD3DMSAAText=Activer l'anticrénelage multi-échantillonnage D3D9 :
+AllowTempAAText=Activer l'anticrénelage temporel :
+TemporalAAMinimumDepthText=Profondeur minimum de l'anticrénelage temporel :
+TemporaAAStartDepthScaleText=Échelle profondeur-vitesse de l'anticrénelage temporel :
+LightShaftsText=Rayons lumineux :
+
+[Keybinds]
+KeybindSettings=Paramètres des touches attribuées
+AllText=Tout
+CombatText=Combat
+MovementText=Déplacement
+UtilityText=Divers
+ResetText=Réinitialiser
+BindNotification=Appuyer sur la touche à attribuer
+ExtraOptionsText=Options Extras
+ToggleSprintOption=Activer la course
+OneButtonDodge=Esquiver avec une touche
+
+[Audio]
+AudioSettings=Paramètres audio
+MasterText=Général :
+MusicText=Musique :
+AmbientText=Ambiance :
+CharacterText=Personnage :
+UIText=Interface utilisateur :
+ChatterText=Conversations :
+VoiceText=Voix :
+EnableVoiceText=Activer la voix ?
+PersistentMusicText=Musique de la carte continue ?
+
+
+[Input]
+InputSettings=Paramètres d'entrée
+MouseSensitivityText=Sensibilité souris :
+DoubleTapTimeText=Temps double-clic :
+InvertTurnText=Direction inversée :
+InvertMouseText=Inverser la souris :
+MouseSmoothingText=Lissage souris :
+
+[Options]
+True=Vrai
+False=Faux
+Low=Faible
+MediumLow=Intermédiaire faible
+Medium=Intermédiaire
+MediumHigh=Intermédiaire élevé
+High=Élevé
+Moderate=Modéré
+
+[CreateGame]
+GameTypeText=Type de partie :
+BotCountText=Nombre de bots :
+ServerText=Serveur :
+ServerText=Héberger le serveur
+
+
+[JoinGame]
+Connect=Connexion
+Refresh=Actualiser
+ServerNameText=Nom du serveur
+PlayersText=Joueurs
+MapText=Carte
+PingText=Ping
+GameTypeText=Type de partie
+GametypeText=Type de partie
+MaxPingText=Ping max :
+ServersText=Serveurs
+HistoryText=Historique
+FavoritesText=Favoris
+FriendsText=Amis
+VacServerText=VAC nécessaire
+HideEmptyServerText=Cacher les serveurs vides
+HideFullServerText=Cacher les serveurs pleins
+HidePasswordText=Cacher les serveurs avec mot de passe
+AddToFavoriteText=Ajouter aux favoris
+ServerFullError=Le serveur est plein !
+
+
+[Profile]
+Stats=Statistiques
+Achievements=Succès
+Customization=Personnalisation
+
+[Scoreboard]
+; Scoreboard Section
+LocationText=Vous jouez à :
+Name=Nom
+Class=Classe
+Score=Score
+Ping=Ping
+Status=Statut
+Alive=Vivant
+Dead=Mort
+; Objective Section
+ObjectiveStatusText=Statut de l'objectif
+OverallProgressText=Progrès général
+LastObjectiveText=Dernier objectif
+NextObjectiveText=Objectif suivant
+CurrentObjectiveText=Objectif actuel
+; Stat Section
+ScoreText=Score :
+KillsText=Victimes :
+DeathsText=Morts :
+PointsText=Points :
+DecapsText=Décapitations :
+KDRatioText=Ratio V/M :
+ExecutionsText=Exécutions :
+DamageDealtText=Dégâts infligés :
+DamageTakenText=Dégâts subis :
+TimeCompletedText=Temps utilisé :
+AssistText=Assistances :
+ObjectivesPointsText=Objectif :
+AccuracyText=Précision :
+presstoenablemouselabel=Appuyez sur B (par défaut) pour activer la souris !
+MouseEnabledText=Appuyez sur Tab (par défaut) pour fermer le classement !
+Rank=Position
+
+
+[Hud]
+; Note - {NUM} is replaced with the actual number of seconds. Place {NUM} appropriately for each language.
+; Note - KEEP {NUM} IN ALL TRANSLATIONS.
+RespawnText=Réapparition dans {NUM} secondes...
+AmmoTextLbl=Munitions
+; Note - {NUM} is replaced with the actual number of ammo found. Place {NUM} appropriately for each language.
+; Note - KEEP {NUM} IN ALL TRANSLATIONS.
+FindAmmoText=+{NUM} munitions
+AllText=Tout
+TeamText=Équipe
+VOTactical=Messages tactiques
+VOPersonal=Messages personnels
+
+[VO]
+ZVODescription0=Me suivre
+ZVODescription1=En avant
+ZVODescription2=Retraite
+ZVODescription3=Tuer les archers
+ZVODescription4=Rejoindre l'objectif
+ZVODescription5=Tenir la position
+ZVODescription6=Me défendre
+ZVODescription7=En approche
+ZVODescription8=Derrière nous
+ZVODescription9=Renforts nécessaires
+XVODescription0=Oui
+XVODescription1=Non
+XVODescription2=Aide
+XVODescription3=Je vous couvre
+XVODescription4=Merci
+XVODescription5=Je vous en prie !
+XVODescription6=Désolé
+XVODescription7=Se moquer
+XVODescription8=Rire
+XVODescription9=Respect
+
+[WeaponSelect]
+WeaponSelectTitle=Sélectionner les armes
+InformationTextLbl=Informations
+PrimaryTxt=Primaire
+SecondaryTxt=Secondaire
+SpecialTxt=Spéciale
+SelectedPrimaryTxt=Primaire sélectionnée
+SelectedSecondaryTxt=Secondaire sélectionnée
+SelectedSpecialTxt=Spéciale sélectionnée
+MoreDetailsTxt=Plus d'informations
+DamageTxt=Dégâts :
+SpeedTxt=Vitesse :
+ReachTxt=Allonge :
+RateTxt=Cadence de tir :
+RangeTxt=Portée :
+AmmoTxt=Munitions :
+TypeTxt=Type :
+WeightTxt=Poids :
+SizeTxt=Taille :
+StaminaCostTxt=Coût en endurance :
+RecoverTimeTxt=Temps de récupération :
+DamageTypeTxt=Type de dégâts :
+BlockStrengthTxt=Force pour bloquer :
+PrimaryAttackTxt=Attaque principale
+SecondaryAttackTxt=Attaque secondaire
+TertiaryAttackTxt=Attaque tertiaire
+MainInfoTxt=Informations principales
+DetailViewTxt=Vue détaillée
+
+
+[Hat]
+HelmetSettings=Sélection du heaume
+
+[Vote]
+BalanceTeams=Équilibrer les équipes ?
+KickPlayer=Exclure le joueur ?
+; {MAP} a été remplacé par le nom de la carte actuel.
+SwitchMap=Changer de carte ?\n {MAP}
+Votes=Votes !
+VoteEnd=Le vote se termine dans :
+Yes=OUI !
+No=NON !
+IgnoreVote=F4 (par défaut) pour ignorer le vote et fermer !
+ChangeMapEffect=Changement de carte dans :
+BalanceEffect=Équilibrage des équipes dans :
+YouVote=Vous
+VoteEnd=Vote terminé !

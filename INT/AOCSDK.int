@@ -1,0 +1,30 @@
+[Errors]
+SDKMapList_Error=The map exists but is not specified in the SDK map list. Please, see SDK documentation.
+DownloadFailed_Title=Download Error
+DownloadInfo_Title=Download
+SDKContentInfo_Title=SDK Content
+FileDetailsServerMissing=Could not download needed packages. Server did not communicate Workshop information.
+FileDetailsClientFailed=Could not download needed packages. Could not get Workshop file information from Steam.
+DownloadFailed=Downloading required package failed.
+DownloadSuccededButMissingFile=Successfully downloaded all packages from Workshop, but server uses files that are not uploaded to Workshop or files that are out of date.
+UserCancelled=Download cancelled by user.
+ContentIntegrity=Client failed content integrity check.
+
+[Download]
+;Unlike the other text in the game, this DOES NOT have support for anything other than Latin characters because it also renders in the loading screen, using bitmap fonts
+; ( http://en.wikipedia.org/wiki/ISO/IEC_8859-1 )
+;if your language falls outside of Latin, recommended you simplify (just remove most of the text other than the units and such) and/or Romanize these as much as possible
+DownloadProgressHeader=Downloading Workshop files
+RequestingWorkshopFileInfo=Requesting file information from the Steam Workshop
+;{CURRFILEINDEX} is replaced with the number of the file we're currently downloading
+;{NUMBEROFFILES} is replaced with the total number of files we're going to download
+CurrentFileLine=Downloading file {CURRFILEINDEX} of {NUMBEROFFILES}
+;{CURRFILEMBRECIEVED} is replaced with the number of megabytes (MB) so far downloaded from the current file
+;{CURRFILEMBSIZE} is replaced with the size of the current file in megabytes
+FileProgressLine=Current file: {CURRFILEMBRECIEVED} MB of {CURRFILEMBSIZE} MB
+;{ALLFILESMBRECEIVED} is replaced with the number of megabytes so far downloaded from all files
+;{ALLFILESMBSIZE} is replaced with the total size of all the files we're downloading in megabytes
+TotalProgressLine=All files: {ALLFILESMBRECEIVED} MB of {ALLFILESMBSIZE} MB
+;{SPEEDMB} is replaced with our current download speed in megabytes per second (MB/s)
+SpeedLine=Speed: {SPEEDMB} MB/s
+DownloadSucceeded=Download finished. Extracting and installing files.

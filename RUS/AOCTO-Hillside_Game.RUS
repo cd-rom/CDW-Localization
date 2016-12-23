@@ -1,0 +1,98 @@
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_0 AOCSeqAct_BroadcastMessage]
+Message="Treb1Msg"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_1 AOCSeqAct_BroadcastMessage]
+Message="Treb2Msg"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_10 AOCSeqAct_BroadcastMessage]
+Message="Trebremains1"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_11 AOCSeqAct_BroadcastMessage]
+Message="Trebremains3"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_4 AOCSeqAct_BroadcastMessage]
+Message=F1Keep
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_12 AOCSeqAct_BroadcastMessage]
+Message="Trebremains2"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_2 AOCSeqAct_BroadcastMessage]
+Message="Treb3Msg"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_3 AOCSeqAct_BroadcastMessage]
+Message="Treb4Msg"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_DisplaySubCrosshairText_0 AOCSeqAction_DisplaySubCrosshairText]
+OutputAgathaString={ TWO players REQUIRED }
+OutputMasonString=
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_6 AOCSeqAct_BroadcastMessage]
+Message="F1Keep"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_7 AOCSeqAct_BroadcastMessage]
+Message="F1Bridge"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_8 AOCSeqAct_BroadcastMessage]
+Message="F1Wall"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_9 AOCSeqAct_BroadcastMessage]
+Message="F1TSquare"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_DisplaySubCrosshairText_1 AOCSeqAction_DisplaySubCrosshairText]
+OutputAgathaString="F1Wall"
+OutputMasonString="F1TSquare"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_DisplaySubCrosshairText_10 AOCSeqAction_DisplaySubCrosshairText]
+OutputAgathaString=""
+OutputMasonString="Signal fires in towers indicate trebuchets under attack "
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_DisplaySubCrosshairText_9 AOCSeqAction_DisplaySubCrosshairText]
+OutputAgathaString="F1Bridge"
+OutputMasonString="F1Keep"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_0 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="Нужен еще один, чтобы уничтожить этот требушет"
+sSubcrosshairTextMason=""
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_1 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="Вы нужны друг другу, чтобы уничтожить этот требушет"
+sSubcrosshairTextMason=""
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_2 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="Вы нужны друг другу, чтобы уничтожить этот требушет"
+sSubcrosshairTextMason=""
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_3 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="Вы нужны друг другу, чтобы уничтожить этот требушет"
+sSubcrosshairTextMason=""
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_4 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="Вы нужны друг другу, чтобы уничтожить этот требушет"
+sSubcrosshairTextMason=""
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_5 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="Вы нужны друг другу, чтобы уничтожить этот требушет"
+sSubcrosshairTextMason=""
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_6 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="Вы нужны друг другу, чтобы уничтожить этот требушет"
+sSubcrosshairTextMason=""
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_7 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="Вы нужны друг другу, чтобы уничтожить этот требушет"
+sSubcrosshairTextMason=""
+
+[TheWorld:PersistentLevel.Main_Sequence.SeaBattle.AOCSeqAct_BroadcastMessage_4 AOCSeqAct_BroadcastMessage]
+Message="Ship1"
+
+[TheWorld:PersistentLevel.Main_Sequence.SeaBattle.AOCSeqAct_BroadcastMessage_5 AOCSeqAct_BroadcastMessage]
+Message="Ship2"
+

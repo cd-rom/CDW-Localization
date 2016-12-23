@@ -1,0 +1,383 @@
+[Items]
+#Generic Hats
+NoHat=No helmet
+DefaultHat=Default helmet
+DefaultHatOpen=Default helmet (open)
+KickStarterHat=Kickstarter helmet
+VeteranHelmet=Veteran helmet
+VeteranHelmetOpen=Veteran helmet (open)
+SilverHat=Silver Hat (rank 30)
+BlackHat=Black Hat (rank 40)
+GoldHat=Gold Hat (rank 50)
+
+#Characters
+Peasant=Peasant
+Skeleton=Skeleton
+
+#Emblems
+AgathaLion1=Agatha Lion
+AgathaCross1=Agatha Cross
+AgathaCross2=Agatha Dual Cross
+AgathaCross4=Agatha Quad Cross (shield)
+AgathaCrossLion=Agatha Cross/Lions (shield)
+AgathaLion1=Agatha Lion
+AgathaLion6=Agatha Six Lions (shield)
+AgathaLion3=Agatha Triple Lion
+MasonEagleS=Mason Eagle
+MasonFistC=Mason Fist clean
+MasonEagleB=Mason Eagle two color
+MasonEagleHead=Mason Eagle Head
+MasonFistR=Mason Fist rough
+MasonFist2=Dual Fists
+GDragon=Ancient Dragon
+GHelm=Jolly Roger's Helmet
+GRose=Battle Rose
+GSerpTower=The Serpent and Tower
+GStars=Starlight
+GWep1=Crossed Weapons 1
+GWep2=Crossed Weapons 2
+GDev=Dev Mode
+GArrows=Arrows
+GBoar=Boaring
+GClaws=Monster's Claws
+GCrust=Crustaceous
+GGriffin=Hippogriff
+GHam=Hammer Time
+GHunts=The Huntsman
+GMeow=Meowric
+GRams=Ramskull
+GScorp=Scorpion Sting
+GSickle=Sickle of Sickness
+GSpears=Brittany Spears
+GTaurus=Raging Bull
+GWolf=Lone Wolf
+GBearKnight=Ryan Bearcrest
+GClover=Lucky Clover
+GCrab=Mudcrab
+GEagleClaws=Eagle Claws
+GFishes=Fishes
+GSailfish=Sailing Fish
+GSkullArrow=Skullen Arrow
+GSunthing=Sunthing
+GTriskell=Triskell
+GBlank=Blank
+CComAgatha=Community Agatha
+CComMason=Community Mason
+CGen=Community Generic General
+CBears=Community Bears
+CDeers=Community Deer
+CSnakes=Community Snakes
+CWolves=Community Wolves
+CAnimals=Community Animalia
+CCeltViking=Community VikingCelt
+CShapes=Community Shapey
+CSkulls=Community Skulls
+CWeapons=Community Weapons
+
+#Knight Emblems
+KEAgathaLion1=Agatha Lion
+KEAgathaCross1=Agatha Cross
+KEAgathaCross2=Agatha Cross 2x
+KEAgathaLion3=Agatha Lion 3x
+KEMasonEagle2=Mason Eagle split
+KEMasonEagle1=Mason Eagle
+KEMasonFist1=Mason Fist
+KEMasonFist2=Mason Fists
+KEMasonFistR=Mason Fist Rough
+KEFleur1=Fleur 3x
+KEDeer=Deer
+KEFleur2=Fleur
+KEChicken=Chickencrest
+KEHarp=Harp
+KEKnHospitaller=Knights Hospitaller
+KEKnTemplar=Knights Templar
+KEOrdAviz=Order of Aviz
+KEOrdDobrzyn=Order of Dobrzyn
+KEOrdHolySepulchre=Order of Holy Sepulchre
+KEOrMontesa=Order of Montesa
+KEOrdSaintJames=Order of Saint James
+KEOrdSantiago=Order of Santiago
+KESun=Sun
+KEKnTeutonic=Teutonic Knights
+KETudorRose=Tudor Rose
+KEBearKnight=Bear Knight
+KEClover=Clover
+KEGriffin=Griffin
+KEMeowric=Meowric
+KESailfish=Sailfish
+
+#Knight Tabards
+QuadrantChecker=Quadrant Checkers
+FancyTrim=Fancy Trim
+Split=Split
+Chevron=Chevron
+HorizontalStripes=Horizontal Stripes
+DiagonalStripes=Diagonal Stripes
+VerticalStripes=Vertical Stripes
+ThinStripes=Thin Stripes
+
+#Ninja Emblems
+Kujini=Kujini
+Kumiai=Kumiai
+Kuroda=Kuroda
+kyokkou=Kyokkou
+Marunouchinimitsuhikiryo=Marunouchinimitsuhikiryo
+Minamoto=Minamoto
+mitumori=Mitumori
+Mori=Mori
+Mukai=Mukai
+Nishi-ishi=Nishi-Ishi
+Noshi-Bishi=Noshi-Bishi
+Oda=Oda
+Oikake=Oikake
+Oni=Oni
+RokoSegawa=RokoSegawa
+Seimei-Kikyou=Seimei-Kikyou
+Sumikiri=Sumikiri
+Tachibana=Tachibana
+Taira=Taira
+Takara-Musubi=Takara-Musubi
+Takeda=Takeda
+Tokugawa=Tokugawa
+torii=Torii
+Tsuru_no_Maru=Tsuru No Maru
+Tugaru=Tugaru
+
+#Samurai Emblems
+Akisino_no_miya=Akisino No Miya
+Ashikaga=Ashikaga
+Daki_hana_Gyouyou=Daki Hana Gyouyou
+daki_Myouga=Daki Myouga
+Date=Date
+Denji-so=Denji-So
+Fujiwa=Fujiwa
+Fuse-cho=Fuse-Cho
+Gion-Mamori=Gion-Mamori
+hana_kurusu=Hana Kurusu
+Hana-Wachigai=Hana-Wachigai
+Hatsu-Choji=Hatsu-Choji
+Hioogi=Hioogi
+Hojo=Hojo
+Honda=Honda
+Imagawa=Imagawa
+Imperial_Seal_of_Japan=Imperial Seal
+Jyanome=Jyanome
+Jyanome2=Jyanome 2
+Kikko=Kikko
+Kikkou=Kikkou
+Kujini=Kujini
+kumiai=Kumiai
+Kuroda=Kuroda
+Tugaru=Tugaru
+
+#Pirate Emblems
+PEBartRoberts2=A Banker's Head
+PEAnchor=Anchors Away
+PEBarbary1=Barbary Ian
+PEBarbary2=Barbary Hazard
+PEBarbary3=Barbary Sharp
+PEBlackbeard=Beard Noire
+PEEdwardLow=Boneshaker
+PEBartRoberts1=Death Party
+PECthulu=Deep One
+PECaptainDualien=Drunken Sailor
+PECompasRose1=Found Me Way
+PEEmanuelWynne=Jollytime
+PEJackRackam=Jolly Dual Wielding
+PEHenryEvery=Jolly Mugshot
+PECompasRose2=Lost Me Way
+PEThomasTew=LMB Spam
+PEBuoy=Oh Buoy
+PEStedeBonnet=Plus Or Minus Death
+PEEdwardEngland=Sad Roger
+PEMermaid=Sirensong
+PEJohnQuelch=Spearfishing
+PEHelm=Spin Me Right Round
+PEChrisCondent=Thrice the Price
+PEChrisMoody=Time To Die
+PERichardWorley=X Marks The Death
+
+#Spartan Emblems
+SpESparta1=Lambda 1
+SpESparta2=Lambda 2
+SpESparta3=Scorpio
+SpESparta4=Dokana
+SpESparta5=Snake
+SpESparta6=Royal Sigil
+SpEBird=Bird
+SpEBull1=Bull 1
+SpEBull2=Bull 2
+SpECerberus=Cerberus
+SpECyclops=Cyclops
+SpEGorgon1=Gorgon 1
+SpEGorgon2=Gorgon 2
+SpEHeracleanClub=Heraclean Club
+SpEHeracles=Heracles
+SpEHydra=Hydra
+SpEKraken=Kraken
+SpELeo=Leo
+SpELeopard=Leopard
+SpEMinotaur=Minotaur
+SpEOmega=Omega
+SpEOwl=Owl
+SpEPegasus=Pegasus
+SpERoosters=Roosters
+SpESeamonster=Seamonster
+SpETriskellion1=Triskellion 1
+SpETriskellion2=Triskellion 2
+SpETwoHeadedLion=Two Headed Lion
+SpEVerginaSun=Vergina Sun
+SpEWingedBoard=Winged Boar
+
+#Viking Emblems
+VEDragon1=Dragons 1
+VEDragon2=Dragons 2
+VEDragon3=Dragons 3
+VEDragon4=Dragons 4
+VEDragon5=Dragons 5
+VEDragon6=Dragons 6
+VEDragon7=Dragons 7
+VEDragon8=Dragons 8
+VEKnots1=Knots 1
+VEKnots2=Knots 2
+VEKnots3=Knots 3
+VEKnots4=Knots 4
+VEKnots5=Knots 5
+VECross=Cross
+VERaven=Raven
+VESwirl=Swirly
+VEShip1=Ship 
+VERunes1=Runes 1 
+VERunes2=Runes 2
+VERunes3=Runes 3
+VECircles1=Circles
+VECricles2=Captain Circles
+
+#Tabards
+Tabard1=Tabard Pattern 1
+Tabard2=Tabard Pattern 2
+Tabard3=Tabard Pattern 3
+
+#Misc
+Default=Disabled
+Disabled=Disabled
+
+#Shield Patterns
+ShieldCross=Disabled
+Quadrant=Quadrant
+Stripes=Stripes
+Checkers=Checkers
+SpartanPattern1=Painted Pattern 1
+SpartanPattern2=Painted Pattern 2
+SpartanPattern3=Painted Pattern 3
+SpartanPattern4=Painted Pattern 4
+BronzePattern1=Bronze Pattern 1
+BronzePattern2=Bronze Pattern 2
+BronzePattern3=Bronze Pattern 3
+BronzePattern4=Bronze Pattern 4
+
+#Samurai
+Defaultsamurai=Default Samurai
+SamuraiBasicHelmetChinguard=Kabuto Chinguard
+SamuraiBasicHelmetNoMask=Kabuto
+SamuraiBasicHelmetFullMask=Kabuto Faceplate
+SamuraiBasicArmor=Sode 
+SamuraiCrest=Front Crest
+SamuraiCrescent=Front Crescent
+CeremonialSamuraiHelm1=Ceremonial Helm 
+CeremonialSamuraiHelm2=Ceremonial Helm2
+
+#Knight
+Solid=Default
+AgathaKnight=Default Knight
+DefaultHat=Bascinet
+DefaultHatOpen=Bascinet Open
+NoHat=Disabled
+AgathaArcher_Helm01=Agatha Archer Helm
+AgathaArcher_Helm_Veteran=Vet Agatha Archer Helm
+AgathaKnight_HelmetUP_Veteran=Vet Agatha Archer Helm up
+AgathaMaa_Helm01= Agatha Maa Helm
+AgathaMAA_Helmet_Veteran=Vet Agatha Maa Helm
+CrusaderHA_PSKrightNew= Crusader Helm
+AgathaKnight_Helmet_Veteran=Agatha Veteran Helmet
+AgathaVanguard_Helmet_Veteran=Vet Agatha Vanguard
+MasonKnight_Helm01=Mason Knight Helm
+CH_MasonKnight_Helmet_Veteran= Vet Mason Knight Helm
+MasonVanguard_Helmet_Basic= Mason Vanguard Helm
+MasonVanguard_Helmet_Veteran=Vet Mason Vanguard
+Peasant_Hat01=Peasant Hat
+AgathaKnight_DLC=Knight Hero
+Knight_D=knight Hero Helmet
+Paldrons=Paldrons
+gardbrace=gardbrace
+couter=couter
+CeremonialKnightHelm1=Ceremonial Helm A
+CeremonialKnightHelm1open=Ceremonial Helm A2
+CeremonialKnightHelm2=Ceremonial Helm B
+CeremonialKnightHelm2open=Ceremonial Helm B2
+
+#Pirate
+Defaultpirate=Default Pirate
+PirateTricorn=Tricorn
+PirateVeteranTricorn=Veteran Tricorn
+Spyglass=Spyglass
+Broach=Broach
+Eyepatch=Eyepatch
+CeremonialPirateBicorn=Ceremonial Bicorn
+
+#Spartan
+SpartanBare=Barechested
+SpartanBreastplate=Default Spartan
+SpartanAchilles=Achilles Hero
+AchillesHelm=Achilles Helm
+AchillesGreaves=Achilles Greaves
+helmnocrest =Helm
+helmcrest=Crested Helm
+helmsidewayscrest=Elite Crested Helm
+Greaves=Greaves
+CeremonialSpartanHelm=Ceremonial Helm
+
+#Ninja
+NinjaHelm=Helm
+NinjaHelmFaceguard=Helm With Faceguard
+ArcherHelmVet=Vet Agatha Archer Helm
+NinjaMasked=Masked
+NinjaUnmasked=Default Ninja
+GrapplingHook=Grappling hook
+Kunai=Kunai
+Sheath=Sheath
+NinjaWarHelm=Ceremonial WarHelm
+NinjaStrawHat=Straw Hat
+
+#Viking
+DrinkingHorn=Drinking Horn
+VikingFur=Animal Pelt 
+VikingnoFur=Default Viking
+vikinghelm1=Helm
+vikinghelm2=Spangenhelm
+vikinghelm3=Ornate Spangenhelm 
+headband= Leather Headband
+chivhelm1=Chivalry Helm
+chivhelm2=Chivalry Vet helm
+CeremonialVikingHelm=Ceremonial Helm
+#dev
+DevEmblem_01=Dev Emblem 01
+DevEmblem_02=Dev Emblem 02
+
+[Screen]
+CustomizationHeaderLabel=Character Customization
+ColorLabelA=Primary colour
+ColorLabelB=Secondary colour
+ColorLabelC=Trim colour
+LockedHeader=Locked!
+customization_body_label=Body
+customization_helmet_label=Helmet
+customization_accessories_label=Accessories
+customization_patterns_label=Patterns and Colours
+
+[StoreDescriptions]
+VeteranGearStoreDescription=In order to unlock this helmet, you need to unlock all the weapons for this class.
+DLCStoreDescription=Purchase this item in order to use it in game.
+
+####{MINRANK} is replaced with the minimum rank to use the item; {CURRANK} is replaced with the player's current rank. Don't translate those two.
+RankLock=<p>You must be at least rank <b>{MINRANK}</b> to use this item.</p><br/><p>Your current rank is <b>{CURRANK}</b></p>

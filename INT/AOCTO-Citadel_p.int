@@ -1,0 +1,15 @@
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_0 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=
+sSubcrosshairTextAgatha=Rotate ballista to fire at palisade wall
+sSubcrosshairTextMason=
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_3 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="rotate"
+sSubcrosshairTextMason="blank"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_GenericShowMessage_1 AOCSeqAction_GenericShowMessage]
+sChatMessageToSend=""
+sSubcrosshairTextAgatha="rotate"
+sSubcrosshairTextMason="blank"
+

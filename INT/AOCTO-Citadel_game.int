@@ -1,0 +1,31 @@
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAct_BroadcastMessage_5 AOCSeqAct_BroadcastMessage]
+Message="F1Throne"
+
+[TheWorld:PersistentLevel.Main_Sequence.AOCSeqAction_DisplaySubCrosshairText_1 AOCSeqAction_DisplaySubCrosshairText]
+OutputAgathaString="F1Throne"
+OutputMasonString="F1CastleGate"
+
+[TheWorld:PersistentLevel.Main_Sequence.SpawnForward.AOCSeqAct_BroadcastMessage_12 AOCSeqAct_BroadcastMessage]
+Message="F1 to fall back"
+
+[TheWorld:PersistentLevel.Main_Sequence.SpawnForward.AOCSeqAct_BroadcastMessage_2 AOCSeqAct_BroadcastMessage]
+Message="F1 to spawn forward"
+
+[TheWorld:PersistentLevel.Main_Sequence.SpawnForward_0.AOCSeqAct_BroadcastMessage_5 AOCSeqAct_BroadcastMessage]
+Message="F1 to spawn forward"
+
+[TheWorld:PersistentLevel.Main_Sequence.SpawnForward_0.AOCSeqAct_BroadcastMessage_6 AOCSeqAct_BroadcastMessage]
+Message="F1 to fall back"
+
+[TheWorld:PersistentLevel.Main_Sequence.SpawnForward_1.AOCSeqAct_BroadcastMessage_7 AOCSeqAct_BroadcastMessage]
+Message="F1 to spawn forward"
+
+[TheWorld:PersistentLevel.Main_Sequence.SpawnForward_1.AOCSeqAct_BroadcastMessage_8 AOCSeqAct_BroadcastMessage]
+Message="F1 to fall back"
+
+[TheWorld:PersistentLevel.Main_Sequence.SpawnForward_2.AOCSeqAct_BroadcastMessage_10 AOCSeqAct_BroadcastMessage]
+Message="F1 to fall back"
+
+[TheWorld:PersistentLevel.Main_Sequence.SpawnForward_2.AOCSeqAct_BroadcastMessage_9 AOCSeqAct_BroadcastMessage]
+Message="F1 to spawn forward"
+

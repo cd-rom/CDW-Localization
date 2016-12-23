@@ -1,0 +1,14 @@
+ÿþ[FontLib]
+FontLib=UDKFonts.fonts_en
+FontLib=UDKFonts.gfxfontlib
+
+[Fonts]
+SansFont=Chiv Sans Mega
+SerifFont=Chiv Serif Mega
+ChivDeathFont=AOC_UI_Common.DeathFont
+
+[Global]
+No Trigger=No Trigger!
+
+[IME]
+MoviePath=UDKFrontEnd.udk_im

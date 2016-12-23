@@ -1,0 +1,22 @@
+[Game]
+FFA=Free-For-All
+TO=Team Objective
+LTS=Last Team Standing
+CTF=Capture The Flag
+TD=Team Deathmatch
+KOTH=King of the Hill
+DUEL=Duel
+PTB=Plant the Banner
+HTB=Hold the Banner
+
+[Maps]
+Stoneshill=The Mason Order has managed to sneak into Stoneshill Valley undiscovered, aiming to end the still short rule of the Agathian steward residing here in his opulent Royal Palace.  War comes to Stoneshill and it seems the quiet people of the sleepy village here are wholly unprepared.  If the tenants of the Agathian Knighthood hold true, the Agathian forces stationed here will need to take up arms and face their fate, not only to ensure the safety of their named king's subjects, but to ensure their continued claim to their homeland.\n\nMason - Slaughter the peasants.\nAgatha - Protect the peasants
+Arena=You have been chosen to lay your life down for the glory of the kingdom. The political whispers that haunt the streets of this once great capitol city will be settled here and now in the arena! Only death can reveal which faction has truest claim to the throne for the will of men is writ in blood! 
+Battlegrounds= The Agathian army finally makes a push to take back their capitol city.  The fighting has raged for three days, the surrounding lands have been ravaged and the worst is still yet to come. As Agathian engineers put the final touches on their secret weapon the last remaining Mason resources are under threat with the Agathian army launching their final and most devastating assault on their once glorious city. \n\nMason - Defend the farm. \nAgatha - Burn the farm
+Hillside=After returning to find their homeland occupied by the Mason Order, the Agathian ship armadas were denied passage through the straight that leads into the Agathian interior. By the cover of night an Agathian landing party has made it ashore, where they plan to secure the beach and signal to the warships via a bonfire when they are clear to advance. Will the Mason Order's shore defense prove too much for the Agathian ships, or will the landing party provide distraction sufficient enough for the fleet to invade? \n\nMason - Prevent a signal fire. \nAgatha - Light a signal fire
+Ruins=What was once the glorious and noble crusade of King Argon to take back the now ruined first city of Narem has deteriorated into a petty land battle of pride and hubris in its decrepit streets and alleys. Take the enemy's flag and parade it through the streets in mockery before you burn it back at your base. 
+Dark Forest=Having infiltrated Agatha through a secret mountain pass above Stoneshill Valley, the Mason Order plans to poison the source of the Agathian water supply here with the diseased corpses of Agathian peasantry. Is the Mason Order aware that the remaining heirs to the throne are hidden away in a cliffside fortress just beyond the pass? Agatha's last hope is to hold their reservoir cistern against the Mason Order's disease-laden wagon and hope the Order doesn't discover what's hidden just beyond it. \n\nMason -  Push the corpse wagon into the pass. \nAgatha - Stop the corpse wagon
+
+[Duel]
+TimeRemaining={NUM} seconds remain in the duel!
+TimeHasRunOut=Time for the duel has run out! 

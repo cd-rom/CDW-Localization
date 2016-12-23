@@ -1,0 +1,444 @@
+[AOCWeapon_Longsword]
+WeaponName="Épée longue"
+WeaponDescription="L'épée longue se manie à une ou deux mains ; elle porte également le nom d'épée bâtarde. Elle associe puissance, vitesse et allonge et c'est l'une des meilleures armes disponibles."
+
+[AOCWeapon_Messer]
+WeaponName="Messer"
+WeaponDescription="Le messer est une épée courte dotée d'un seul côté tranchant, capable de porter des coups horizontaux et verticaux par le dessus d'une rare violence. C'est cependant une arme perforante assez faible."
+
+[AOCWeapon_Halberd]
+WeaponName="Hallebarde"
+WeaponDescription="La hallebarde s'utilise principalement comme arme perforante. Ses coups verticaux par le dessus infligent toutefois des dégâts majeurs en raison de son poids total."
+
+[AOCWeapon_Greatsword]
+WeaponName="Épée large"
+WeaponDescription="Cette épée à deux mains bien équilibrée est dotée d'une puissance et d'une allonge supérieures, mais d'une vitesse réduite."
+
+[AOCWeapon_PoleAxe]
+WeaponName="Hache d'hast"
+WeaponDescription="La hache d'hast est l'une des armes les plus polyvalentes de l'arsenal. Elle est capable d'éliminer ses adversaires en infligeant des dégâts de type tranchant, contondant ou perforant."
+
+[AOCWeapon_Claymore]
+WeaponName="Claymore"
+WeaponDescription="La claymore écossaise emblématique est une longue et fine épée à deux mains qui porte des coups rapides pour sa taille et inflige des dégâts modérés."
+
+[AOCWeapon_Zweihander]
+WeaponName="Zweihänder"
+WeaponDescription="Cette grosse épée à deux mains allemande à la lame ondulée inflige de terribles dégâts ; elle est lourde et sa vitesse est réduite."
+
+[AOCWeapon_Bardiche]
+WeaponName="Bardiche"
+WeaponDescription="La bardiche est une arme d'hast longue et puissante de type tranchant. Elle est redoutable, mais son propriétaire doit éviter le corps à corps en raison de sa taille."
+
+[AOCWeapon_SmokePot]
+WeaponName="Pot à fumée"
+WeaponDescription="Il s'utilise pour créer des écrans de fumée ; précieux pour se protéger des ennemis à distance."
+
+[AOCWeapon_HolyWaterSprinkler]
+WeaponName="Masse à pointes"
+WeaponDescription="Cette masse d'armes modifiée, équipée de pointes, permet de frapper très rapidement."
+
+[AOCWeapon_Torch]
+WeaponName="Torche"
+WeaponDescription="Idéale pour brûler les individus ou les bâtiments et lancer des émeutes."
+
+[AOCWeapon_Shortbow]
+WeaponName="Arc court"
+WeaponDescription="Léger, rapide et meurtrier. La portée et les dégâts de l'arc court sont inférieurs à ceux de l'arc long, mais le tireur peut se déplacer et tirer plus rapidement."
+
+[AOCWeapon_Longbow]
+WeaponName="Arc long"
+WeaponDescription="L'arc long est bien équilibré en termes de vitesse et de dégâts ; c'est une arme redoutée qui s'utilise de préférence à moyenne et longue portées."
+
+[AOCWeapon_Warbow]
+WeaponName="Arc de guerre"
+WeaponDescription="Seuls les plus forts guerriers peuvent bander un arc de guerre. En raison de la force nécessaire pour l'utiliser, sa cadence de tir est plutôt faible."
+
+[AOCWeapon_LightCrossbow]
+WeaponName="Arbalète légère"
+WeaponDescription="C'est la version légère de l'arbalète standard. La tension réduite de sa corde permet de la recharger plus rapidement, mais sa portée est moindre et elle inflige moins de dégâts."
+
+[AOCWeapon_Crossbow]
+WeaponName="Arbalète"
+WeaponDescription="L'arbalète est l'arme par excellence de la catégorie des armes de tir ; ses tirs sont puissants mais son temps de rechargement est modéré."
+
+[AOCWeapon_HeavyCrossbow]
+WeaponName="Arbalète lourde"
+WeaponDescription="L'arbalète lourde nécessite un temps de rechargement très long, mais sa puissance est dévastatrice sur le champ de bataille."
+
+[AOCWeapon_Dagesse]
+WeaponName="Épée courte"
+WeaponDescription="L'épée courte est l'arme secondaire de tous les archers. Elle inflige des dégâts moyens de type tranchant ou perforant ; c'est une arme bien équilibrée possédant peu de points faibles."
+
+[AOCWeapon_Saber]
+WeaponName="Sabre"
+WeaponDescription="Cette lame légère permet de frapper très rapidement et possède une bonne allonge. Le sabre inflige cependant moins de dégâts que les armes plus lourdes."
+
+[AOCWeapon_Cudgel]
+WeaponName="Gourdin"
+WeaponDescription="Le gourdin en bois est une des armes les plus simples de l'arsenal. Il s'utilise pour frapper l'ennemi au corps à corps et inflige des dégâts contondants."
+
+[AOCWeapon_Hatchet]
+WeaponName="Hachette"
+WeaponDescription="La hachette est légère et rapide et permet d'infliger de bons dégâts en corps à corps ; son allonge est néanmoins assez faible."
+
+[AOCWeapon_Dane]
+WeaponName="Hache danoise"
+WeaponDescription="La hache danoise est une arme à une main à l'allonge élevée qui inflige des dégâts modérés mais se révèle assez lente."
+
+[AOCWeapon_Bearded]
+WeaponName="Hache barbue"
+WeaponDescription="La lame courbe de la hache barbue offre une plus large surface tranchante et un poids général assez peu élevé. C'est une hache bien équilibrée aux bonnes caractéristiques (puissance, vitesse et allonge)."
+
+[AOCWeapon_Bill]
+WeaponName="Vouge"
+WeaponDescription="Le vouge est une redoutable arme d'hast qui permet de porter des coups assez rapides au détriment de son allonge."
+
+[AOCWeapon_SwordOfWar]
+WeaponName="Épée de guerre"
+WeaponDescription="L'épée de guerre est une épée bâtarde à la vitesse élevée mais aux dégâts réduits."
+
+[AOCWeapon_Fork]
+WeaponName="Fourche"
+WeaponDescription="La fourche est une sorte de lance plus courte dotée de deux longues dents. Son allonge réduite permet de frapper plus rapidement."
+
+[AOCWeapon_Brandistock]
+WeaponName="Brandistock"
+WeaponDescription="Le brandistock est une arme de la catégorie des lances à trois dents, capable d'infliger d'importants dégâts en un seul coup. Ce n'est cependant pas une arme rapide en raison de son poids et sa taille."
+
+[AOCWeapon_Spear]
+WeaponName="Lance"
+WeaponDescription="La lance possède l'allonge la plus importante de toutes les armes de l'arsenal."
+
+[AOCWeapon_Broadsword]
+WeaponName="Glaive"
+WeaponDescription="Le glaive est une arme très efficace et assez rapide qui inflige des dégâts honnêtes. Une arme complète."
+
+[AOCWeapon_NorseSword]
+WeaponName="Épée nordique"
+WeaponDescription="Cette épée à double tranchant est très rapide et possède une bonne allonge. Elle inflige principalement des dégâts perforants et de faibles dégâts tranchants."
+
+[AOCWeapon_Falchion]
+WeaponName="Fauchon"
+WeaponDescription="Cette épée à lame courbe est dotée d'un seul tranchant. Sa puissance et sa vitesse sont considérables, mais son allonge est faible."
+
+[AOCWeapon_Mace]
+WeaponName="Masse d'armes"
+WeaponDescription="La masse d'armes est une arme meurtrière qui s'utilise principalement pour frapper l'ennemi de façon répétée. Elle inflige plus de dégâts que le glaive et est légèrement plus rapide, mais son allonge est moindre."
+
+[AOCWeapon_DoubleAxe]
+WeaponName="Hache double"
+WeaponDescription="La hache double est une arme dévastatrice. Elle inflige des dégâts coupants redoutables, mais son poids en fait une arme lente au combat."
+
+[AOCWeapon_ThrowingAxe]
+WeaponName="Hache de jet"
+WeaponDescription="Cette arme de jet inflige des dégâts importants ; munitions faibles."
+
+[AOCWeapon_ThrowingKnife]
+WeaponName="Couteau de lancer"
+WeaponDescription="Arme de jet aux dégâts faibles ; munitions élevées."
+
+[AOCWeapon_OilPot]
+WeaponName="Pot incendiaire"
+WeaponDescription="Ce pot d'argile contient un liquide hautement inflammable qui s'embrase lorsque le pot se brise. C'est une arme de choix à utiliser contre les ennemis équipés de boucliers, car il ne peut pas être paré."
+
+[AOCWeapon_MorningStar]
+WeaponName="Étoile du matin"
+WeaponDescription="L'étoile du matin est une arme semblable à la masse qui inflige un peu moins de dégâts, mais à la cadence d'attaque modérée."
+
+[AOCWeapon_WarAxe]
+WeaponName="Hache de guerre"
+WeaponDescription="Cette hache de guerre à une main est l'arme de corps à corps de prédilection la plus puissante du combattant. Sa vitesse d'attaque et son allonge sont cependant modérées."
+
+[AOCWeapon_WarHammer]
+WeaponName="Marteau de guerre"
+WeaponDescription="Le marteau de guerre est une arme de corps à corps, capable de traverser les armures les plus épaisses. Ses dégâts sont redoutables, mais son allonge et sa vitesse sont plus modestes."
+
+[AOCWeapon_BroadDagger]
+WeaponName="Grande dague"
+WeaponDescription="La grande dague est une arme simple qui s'utilise principalement pour porter des attaques tranchantes et perforantes sur l'ennemi. Elle est très bien équilibrée grâce à son pommeau large et c'est l'arme la plus rapide du jeu."
+
+[AOCWeapon_HuntingKnife]
+WeaponName="Couteau de chasse"
+WeaponDescription="Le couteau de chasse est une arme très rapide qui inflige de bons dégâts tranchants et de faibles dégâts perforants."
+
+[AOCWeapon_ThrustDagger]
+WeaponName="Dague perforante"
+WeaponDescription="Cette dague à la lame pointue est conçue pour infliger des dégâts perforants. Elle est capable de pénétrer la plupart des armures grâce à son extrémité pointue."
+
+[AOCWeapon_JavelinThrow]
+WeaponName="Javelot"
+WeaponDescription="Le javelot est davantage une arme hybride qu'une véritable arme de jet ; il excelle à courte et moyenne portées et c'est également une arme de corps à corps efficace."
+
+[AOCWeapon_ShortSpearThrow]
+WeaponName="Lance courte"
+WeaponDescription="Cette version légère du javelot inflige moins de dégâts, mais se lance plus rapidement et plus loin."
+
+[AOCWeapon_HeavyJavelinThrow]
+WeaponName="Javelot lourd"
+WeaponDescription="Cette version lourde du javelot inflige plus de dégâts, mais se lance moins rapidement et moins loin."
+
+[AOCWeapon_JavelinMelee]
+WeaponName="Javelot"
+WeaponDescription="Le javelot est davantage une arme hybride qu'une véritable arme de jet ; il excelle à courte et moyenne portées et c'est également une arme de corps à corps efficace."
+
+[AOCWeapon_ShortSpearMelee]
+WeaponName="Lance courte"
+WeaponDescription="Cette version légère du javelot inflige moins de dégâts, mais se lance plus rapidement et plus loin."
+
+[AOCWeapon_HeavyJavelinMelee]
+WeaponName="Javelot lourd"
+WeaponDescription="Cette version lourde du javelot inflige plus de dégâts, mais se lance moins rapidement et moins loin."
+
+[AOCWeapon_Flail]
+WeaponName="Fléau"
+WeaponDescription="Le fléau est l'arme la moins prévisible de tout l'arsenal du jeu. Il s'utilise à courte et moyenne portées et c'est l'arme la plus rapide du chevalier. Il inflige des dégâts honnêtes, mais il est extrêmement difficile de le contrer car toutes ses attaques ont la même amplitude. Le fléau est également une arme excellente qui permet de contenir les foules et de repousser de multiples adversaires facilement et simultanément."
+
+[AOCWeapon_PaviseShield]
+WeaponName="Pavois"
+WeaponDescription="Cette arme spéciale est disponible uniquement avec les arbalètes. Le pavois peut se planter dans le sol pour offrir une couverture mobile, permettant à l'arbalétrier de se cacher pendant qu'il recharge son arme."
+
+[AOCWeapon_PaviseShield_Agatha]
+WeaponName="Pavois"
+WeaponDescription="Cette arme spéciale est disponible uniquement avec les arbalètes. Le pavois peut se planter dans le sol pour offrir une couverture mobile, permettant à l'arbalétrier de se cacher pendant qu'il recharge son arme."
+
+[AOCWeapon_PaviseShield_Mason]
+WeaponName="Pavois"
+WeaponDescription="Cette arme spéciale est disponible uniquement avec les arbalètes. Le pavois peut se planter dans le sol pour offrir une couverture mobile, permettant à l'arbalétrier de se cacher pendant qu'il recharge son arme."
+
+[AOCWeapon_Maul]
+WeaponName="Maillet"
+WeaponDescription="Le maillet est une masse modifiée, meurtrière sur le champ de bataille. C'est l'arme de corps à corps de l'arsenal qui inflige le plus de dégâts. Son allonge est considérable, mais c'est arme incroyablement lourde et lente."
+
+[AOCWeapon_Buckler]
+WeaponName="Petit bouclier"
+WeaponDescription="Ce petit bouclier en bois à une main offre moins de protection face aux armes de tir, mais assure à son propriétaire une bonne mobilité."
+
+[AOCWeapon_Buckler_Agatha]
+WeaponName="Petit bouclier"
+WeaponDescription="Ce petit bouclier en bois à une main offre moins de protection face aux armes de tir, mais assure à son propriétaire une bonne mobilité."
+
+[AOCWeapon_Buckler_Mason]
+WeaponName="Petit bouclier"
+WeaponDescription="Ce petit bouclier en bois à une main offre moins de protection face aux armes de tir, mais assure à son propriétaire une bonne mobilité."
+
+[AOCWeapon_Heater_Agatha]
+WeaponName="Écu"
+WeaponDescription="Ce bouclier en métal de taille moyenne offre une bonne protection sans pour autant trop encombrer son propriétaire."
+
+[AOCWeapon_Heater_Mason]
+WeaponName="Écu"
+WeaponDescription="Ce bouclier en métal de taille moyenne offre une bonne protection sans pour autant trop encombrer son propriétaire."
+
+[AOCWeapon_TowerShield]
+WeaponName="Grand bouclier"
+WeaponDescription="Ce grand bouclier massif offre une protection extraordinaire, mais son poids peut diminuer les temps de réaction de son propriétaire."
+
+[AOCWeapon_TowerShield_Agatha]
+WeaponName="Grand bouclier"
+WeaponDescription="Ce grand bouclier massif offre une protection extraordinaire, mais son poids peut diminuer les temps de réaction de son propriétaire."
+
+[AOCWeapon_TowerShield_Mason]
+WeaponName="Grand bouclier"
+WeaponDescription="Ce grand bouclier massif offre une protection extraordinaire, mais son poids peut diminuer les temps de réaction de son propriétaire."
+
+[AOCWeapon_Kite_Agatha]
+WeaponName="Bouclier triangulaire"
+WeaponDescription="Ce long bouclier offre une bonne protection, mais ralentit quelque peu son propriétaire."
+
+[AOCWeapon_Kite_Mason]
+WeaponName="Bouclier triangulaire"
+WeaponDescription="Ce long bouclier offre une bonne protection, mais ralentit quelque peu son propriétaire."
+
+[AOCWeapon_ProjBodkin]
+WeaponName="Flèche perforante"
+WeaponDescription="Les flèches perforantes ont des têtes pointues et une meilleure capacité à transpercer les armures que les flèches à tête large. Elles sont idéales pour éliminer les groupes composés de conquérants ou de chevaliers."
+
+[AOCWeapon_ProjBroadhead]
+WeaponName="Flèche à tête large"
+WeaponDescription="Les flèches à tête large infligent de profondes blessures et des dégâts importants aux ennemis en armure légère comme l'archer ou le combattant."
+
+[AOCWeapon_ProjFireArrow]
+WeaponName="Flèche incendiaire"
+WeaponDescription="La tête de cette flèche est conçue pour renfermer des matériaux inflammables. Lorsqu'elle est plongée dans l'huile puis allumée, la flèche peut rester embrasée le temps du combat."
+
+[AOCWeapon_GrandMace]
+WeaponName="Grande masse"
+WeaponDescription="La grande masse est une arme de métal à deux mains bien équilibrée qui inflige de lourds dégâts contondants pour une vitesse et une allonge honnêtes."
+
+[AOCDmgType_PierceProj]
+DamageTypeDescript="Projectile perforant"
+
+[AOCDmgType_Blunt]
+DamageTypeDescript="Contondant"
+
+[AOCDmgType_Burn]
+DamageTypeDescript="Incendiaire"
+
+[AOCDmgType_Generic]
+DamageTypeDescript="Générique"
+
+[AOCDmgType_Pierce]
+DamageTypeDescript="Perforant"
+
+[AOCDmgType_PierceBlunt]
+DamageTypeDescript="Perforant et contondant"
+
+[AOCDmgType_Swing]
+DamageTypeDescript="Tranchant"
+
+[AOCDmgType_SwingBlunt]
+DamageTypeDescript="Coupant"
+
+[AOCView_HUD_ClassSelect]
+ArcherDescription="L'archer est un expert des armes de tir ; il intervient en soutien et inflige des dégâts à l'ennemi à longue et moyenne portées. Vulnérable au corps à corps."
+ArcherSpecial="Furtivité - +50 % aux dégâts furtifs."
+MaaDescription="Le combattant est un guerrier léger de corps à corps. Il se repose sur ses capacités d'esquive et de rapidité pour frapper puis se retirer aussitôt."
+MaaSpecial="Esquive - Capacité d'exécuter des esquives."
+VanguardDescription="Les conquérants forment un groupe de guerriers agressifs qui composent l'avant-garde d'une armée. Leurs armes ont une allonge importante et infligent des dégâts redoutables."
+VanguardSpecial="Charge - Capacité de charger au combat."
+KnightDescription="C'est le guerrier le plus puissant sur le champ de bataille. Les dégâts qu'il inflige et sa lourde armure ont un revers : il est peu mobile et possède généralement des armes plus lentes."
+KnightSpecial="Résistance - Capacité d'absorber des dégâts supplémentaires et d'utiliser moins d'endurance pour parer les coups."
+
+[AOCFFAGRI]
+FFAObjectiveName="Mêlée générale"
+FFAObjectiveDescription="Le joueur avec le meilleur score à la fin du temps imparti l'emporte !"
+
+[AOCTDGRI]
+TDObjectiveName="Match à mort par équipe"
+TDObjectiveDescription="La première équipe à tuer tous les renforts ennemis l'emporte !"
+
+[AOCLTSGRI]
+LTSObjectiveName="Dernière équipe survivante"
+LTSObjectiveDescription="Manches par élimination ; la première équipe à atteindre 7 victoires l'emporte !"
+
+[AOCCTFGRI]
+CTFObjectiveName="Capture du drapeau"
+CTFObjectiveDescription="Capturez le drapeau ennemi et rapportez-le dans votre base !"
+CTFStatusText="{Cur} sur {Max} {Team} drapeaux capturés !"
+
+[AOCKOTHGRI]
+KOTHObjectiveName=Roi de la colline
+KOTHObjectiveDescription=Capturez la colline pendant une certaine durée pour l'emporter !
+
+[AOCSystemMessages]
+; ***********************
+; System Messages 
+; ***********************
+
+; {EXTRA1} to be replaced by the player's name
+AllSystemMessages[0]={EXTRA1} a lâché le drapeau !
+; {EXTRA1} to be replaced by the player's name
+; {EXTRA2} to be replaced by Team name;
+AllSystemMessages[1]={EXTRA1} a capturé le drapeau pour l'équipe {EXTRA2} !
+; {EXTRA1} to be replaced by Team Name.
+AllSystemMessages[2]=Un dernier drapeau à capturer avant que l'équipe {EXTRA1} l'emporte !
+; {EXTRA1} to be replaced by killer's name.
+; {EXTRA2} to be replaced by dead player's name.
+AllSystemMessages[3]={EXTRA1} a tué {EXTRA2} et fait la première victime !
+; {EXTRA1} to be replaced by player's name
+AllSystemMessages[4]={EXTRA1} a pris la tête !
+; {EXTRA1} to be replaced by time (number)
+; {EXTRA2} to be replaced by proper measurement of time (minutes, seconds, hours?)
+AllSystemMessages[5]={EXTRA1} {EXTRA2} de temps restant au combat !
+; {EXTRA1} to be replaced by team name
+; {EXTRA2} to be replaced by actual % number
+AllSystemMessages[6]=L'équipe {EXTRA1} a atteint le point de capture {EXTRA2}.
+; {EXTRA1} to be replaced by team name.
+AllSystemMessages[7]=L'équipe {EXTRA1} remporte la manche !
+; {EXTRA1} to be replaced by team name.
+AllSystemMessages[8]=Il reste une manche avant que l'équipe {EXTRA1} l'emporte !
+; Draw as in Tie.
+AllSystemMessages[9]=Égalité !
+; {EXTRA1} replaced by team name
+; {EXTRA2} replaced by % number
+AllSystemMessages[10]=Les ressources de l'équipe {EXTRA1} sont réduites à {EXTRA2}.
+; {EXTRA1} replaced by Player Name.
+; {EXTRA2} replaced by Team name.
+AllSystemMessages[11]={EXTRA1} a tué la dernière victime pour l'équipe {EXTRA2} !
+; {EXTRA1} replaced by Player Name.
+; {EXTRA2} replaced by Team name.
+AllSystemMessages[12]={EXTRA1} a fait la première victime au combat pour l'équipe {EXTRA2} !
+; {EXTRA1} replaced by Player name.
+AllSystemMessages[13]={EXTRA1} réapparaîtra en Roi dans 10 secondes !
+; {EXTRA1} replaced by % number.
+AllSystemMessages[14]=L'élément à pousser doit encore parcourir {EXTRA1} du chemin !
+; {EXTRA1} replaced by the team name.
+AllSystemMessages[15]=L'équipe {EXTRA1} est victorieuse !
+AllSystemMessages[16]=Un administrateur a mis fin à la partie !
+; {EXTRA1} replaced by actual objective description.
+AllSystemMessages[17]=Objectif accompli : {EXTRA1}
+; {EXTRA1} replaced by actual objective description.
+AllSystemMessages[18]=Échec de l'objectif : {EXTRA1}
+AllSystemMessages[19]=Mi-temps de la bataille.
+; {EXTRA1} replaced by number of minutes remaining.
+AllSystemMessages[20]={EXTRA1} minutes restantes au combat.
+; {EXTRA1} et {EXTRA2} sont des noms de joueurs
+AllSystemMessages[21]={EXTRA1} a proposé un vote d'exclusion contre {EXTRA2}. Appuyez sur Inser pour voter Oui, ou Suppr pour voter Non.
+; {EXTRA2} est un pourcentage et {EXTRA1} est un nom de joueur
+AllSystemMessages[22]={EXTRA1} a été exclu avec {EXTRA2} % de votes en faveur de son exclusion
+; {EXTRA1} est un nom de joueur. {EXTRA2} est le nom d'une carte ;
+AllSystemMessages[23]={EXTRA1} a proposé un vote pour changer de carte et choisir {EXTRA2}. Appuyez sur Inser pour voter Oui, ou Suppr pour voter Non.
+; {EXTRA2} est un pourcentage et {EXTRA1} est le nom d'une carte.
+AllSystemMessages[24]=Le vote pour changer de carte et choisir {EXTRA1} a réussi avec {EXTRA2} % en sa faveur
+; {EXTRA1} est un nom de joueur
+AllSystemMessages[25]={EXTRA1} a proposé un vote pour réinitialiser la partie. Appuyez sur Inser pour voter Oui, ou Suppr pour voter Non.
+; {EXTRA1} est un pourcentage
+AllSystemMessages[26]=Le vote visant à réinitialiser la partie a réussi avec {EXTRA1} % d'avis favorables
+; {EXTRA1} et {EXTRA2} sont des pourcentages.
+AllSystemMessages[27]=Le vote est un échec. Il y a {EXTRA1} % d'avis favorables, mais un minimum de {EXTRA2} % est nécessaire.
+; {EXTRA1} et {EXTRA2} sont des chiffres. 
+AllSystemMessages[28]=Le vote est un échec car il n'y a pas eu suffisamment de votants. Seul(s) {EXTRA1} votant(s) a/ont voté sur les {EXTRA2} possibles
+; {EXTRA1} est un nom de joueur
+AllSystemMessages[29]=L'administrateur {EXTRA1} a mis la partie en pause.
+; {EXTRA1} est un nombre de secondes. {EXTRA2} est un pourcentage.
+AllSystemMessages[30]=Il reste {EXTRA1} secondes pour voter. Le « Oui » remporte {EXTRA2} % des votes jusqu'ici.
+; {EXTRA1} et {EXTRA2} sont des chiffres.
+AllSystemMessages[31]={EXTRA1} a voté Oui; {EXTRA2} a voté Non.
+AllSystemMessages[32]=L'équilibrage auto est en cours...
+; {EXTRA1} est un nom de joueur
+AllSystemMessages[33]={EXTRA1} a rejoint le combat.
+; {EXTRA1} est un nom de joueur
+AllSystemMessages[34]={EXTRA1} a abandonné le combat.
+; ***********************
+; Private Messages
+; ***********************
+; {EXTRA1} replaced by number of seconds.
+AllPrivateNotifs[0]={EXTRA1} secondes restantes avant le réapprovisionnement.
+; {EXTRA1} replaced by number of times to capture.
+AllPrivateNotifs[1]=Capturez le drapeau ennemi {EXTRA1} fois pour gagner !
+AllPrivateNotifs[2]=Le joueur avec le plus grand nombre de victimes à la fin de la partie l'emporte !
+; {EXTRA1} replaced by number of minutes
+AllPrivateNotifs[3]=Capturez et tenez la colline pendant {EXTRA1} minutes pour gagner !
+; {EXTRA1} replaced by number of rounds
+AllPrivateNotifs[4]=La première équipe à remporter {EXTRA1} manches remporte la partie !
+AllPrivateNotifs[5]=Éliminez les forces ennemies !
+AllPrivateNotifs[6]=Vous êtes le ROI. Restez en vie !
+; {EXTRA1} replaced by objective description
+AllPrivateNotifs[7]=Prochain objectif : {EXTRA1}
+; {EXTRA1} replaced by objective description
+AllPrivateNotifs[8]=Premier objectif : {EXTRA1}
+AllPrivateNotifs[9]=Vous faites partie de l'équipe des attaquants.
+AllPrivateNotifs[10]=Vous faites partie de l'équipe des défenseurs.
+; {EXTRA1} is the team name.
+; {EXTRA2} is the class name
+AllPrivateNotifs[11]=Vous réapparaîtrez dans l'équipe et sous la forme : {EXTRA1} {EXTRA2}.
+AllPrivateNotifs[12]=Vous ne pouvez pas dire ça pour le moment !
+AllPrivateNotifs[13]=Vous ne pouvez pas lancer de cri de guerre !
+; {EXTRA1} is the team name.
+; {EXTRA2} is the class name
+AllPrivateNotifs[14]=Vous réapparaîtrez dans l'équipe et sous la forme : {EXTRA1} {EXTRA2}.
+AllPrivateNotifs[15]=Vous ne pouvez pas proposer de nouveau vote aussi rapidement après le précédent
+AllPrivateNotifs[16]=Seuls les administrateurs peuvent proposer des votes
+AllPrivateNotifs[17]=Un vote est déjà en cours
+AllPrivateNotifs[18]=Impossible de trouver ce joueur
+AllPrivateNotifs[19]=Les votes d'exclusion sont désactivés sur ce serveur
+AllPrivateNotifs[20]=Vous ne pouvez pas voter pour l'exclusion d'un administrateur
+AllPrivateNotifs[21]=Vous ne pouvez pas voter pour l'exclusion des ennemis sur ce serveur
+AllPrivateNotifs[22]=Cette carte n'existe pas ou a été désactivée
+AllPrivateNotifs[23]=Les votes de changement de carte sont désactivés sur ce serveur
+AllPrivateNotifs[24]=Les votes de réinitialisation de carte sont désactivés sur ce serveur
+AllPrivateNotifs[25]=Vous avez voté Oui
+AllPrivateNotifs[26]=Vous avez voté Non
+AllPrivateNotifs[27]=Vous allez rejoindre l'autre équipe.
+AllPrivateNotifs[28]=Vous imploser en 5 secondes.

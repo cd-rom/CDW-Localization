@@ -1,0 +1,445 @@
+[AOCWeapon_Longsword]
+WeaponName="Espada larga"
+WeaponDescription="La espada larga puede blandirse con una o dos manos y también se la conoce como "espada bastarda". Combina potencia, velocidad y alcance, por lo que es una de las armas más completas."
+
+[AOCWeapon_Messer]
+WeaponName="Bracamante"
+WeaponDescription="Espada larga de mano y media de un solo filo que inflige tajos horizontales y verticales brutales, pero que no es muy útil para estoquear."
+
+[AOCWeapon_Halberd]
+WeaponName="Alabarda"
+WeaponDescription="La alabarda se emplea principalmente para estoquear, aunque sus tajos verticales también pueden causar un daño considerable debido a su enorme peso."
+
+[AOCWeapon_Greatsword]
+WeaponName="Espadón"
+WeaponDescription="El espadón es todo lo equilibrada que puede ser un arma de dos manos y ofrece una tremenda potencia y alcance; tiene el inconveniente de que es algo lenta."
+
+[AOCWeapon_PoleAxe]
+WeaponName="Hacha de petos"
+WeaponDescription="Se trata de una de las armas más versátiles del arsenal; el hacha de petos puede despachar a los contrincantes a base de tajos, golpes contundentes o ataques punzantes."
+
+[AOCWeapon_Claymore]
+WeaponName="Claymore"
+WeaponDescription="La claymore es el emblemático mandoble escocés: una espada larga de dos manos y doble filo, rápida de blandir para su tamaño y que inflige un daño moderado."
+
+[AOCWeapon_Zweihander]
+WeaponName="Zweihander"
+WeaponDescription="Espadón alemán a dos manos con una hoja ondulada que causa un daño tremendo; movimientos lentos y pesados."
+
+[AOCWeapon_Bardiche]
+WeaponName="Bardiche"
+WeaponDescription="Se trata de un arma enastada muy larga y que da potentes tajos; el bardiche es un arma temible pero quien la use debe evitar las distancias cortas si no quiere verse fácilmente superado."
+
+[AOCWeapon_SmokePot]
+WeaponName="Pote de humo"
+WeaponDescription="Sirve para crear cortinas de humo, lo que viene muy bien para cubrirse ante rivales con armas de larga distancia."
+
+[AOCWeapon_HolyWaterSprinkler]
+WeaponName="Maza de armas"
+WeaponDescription="Se trata de una maza modificada que consiste en un garrote corto con pinchos y sirve para golpear con suma rapidez."
+
+[AOCWeapon_Torch]
+WeaponName="Antorcha"
+WeaponDescription="Sirven para quemar edificios o personas y para iniciar tumultos."
+
+[AOCWeapon_Shortbow]
+WeaponName="Arco corto"
+WeaponDescription="Ligero, rápido y letal. Los disparos de este arco no llegan demasiado lejos ni infligen mucho daño, pero quien lo usa puede disparar rápido sin perder agilidad."
+
+[AOCWeapon_Longbow]
+WeaponName="Arco largo"
+WeaponDescription="El arco largo presenta un buen equilibrio entre velocidad y daño; un arma temible que rinde mejor a media y larga distancia."
+
+[AOCWeapon_Warbow]
+WeaponName="Arco de guerra"
+WeaponDescription="Hay que ser muy fuerte para utilizar el más pesado de los arcos. Debido a la fuerza que hace falta para tensar la cuerda, su cadencia de disparo es más bien lenta."
+
+[AOCWeapon_LightCrossbow]
+WeaponName="Ballesta ligera"
+WeaponDescription="Una versión más ágil de la ballesta corriente. Su menor tensión aligera la recarga, pero su alcance es más corto y causa menos daño."
+
+[AOCWeapon_Crossbow]
+WeaponName="Ballesta"
+WeaponDescription="La ballesta es el portento de las armas de larga distancia; su disparo único es el más potente, aunque tarda mucho en recargarse."
+
+[AOCWeapon_HeavyCrossbow]
+WeaponName="Ballesta pesada"
+WeaponDescription="Muy lenta de recargar, pero con una potencia devastadora sin par en el campo de batalla."
+
+[AOCWeapon_Dagesse]
+WeaponName="Espada corta"
+WeaponDescription="La espada corta es la clásica arma auxiliar del arquero. Puede causar un daño razonable si se usa para dar tajos, cuchilladas o si se arroja contra los contrincantes; un arma secundaria equilibrada sin muchos inconvenientes."
+
+[AOCWeapon_Saber]
+WeaponName="Sable"
+WeaponDescription="El sable es una espada ligera de golpeo rapidísimo y buen alcance; carece del daño y la capacidad de parada de armas más pesadas."
+
+[AOCWeapon_Cudgel]
+WeaponName="Clava"
+WeaponDescription="Es una de las armas más simples del arsenal; se trata de un garrote de madera que sirve para atosigar a los rivales de cerca con golpes contundentes."
+
+[AOCWeapon_Hatchet]
+WeaponName="Hacha de mano"
+WeaponDescription="Si bien carece de alcance, la ligereza y rapidez de esta hacha permiten apabullar a los rivales a corta distancia y causarles un daño considerable."
+
+[AOCWeapon_Dane]
+WeaponName="Hacha danesa"
+WeaponDescription="Se trata de un arma de una mano de alcance considerable que inflige un daño razonable; es algo lenta de blandir."
+
+[AOCWeapon_Bearded]
+WeaponName="Hacha barbuda"
+WeaponDescription="El filo de corte de esta hacha se extiende por debajo de la anchura de la culata para ampliar la superficie de corte manteniendo el peso bajo. Ello la convierte en un hacha equilibrada con una buena capacidad de daño, velocidad y alcance."
+
+[AOCWeapon_Bill]
+WeaponName="Bisarma"
+WeaponDescription="Se trata de un arma enastada temible que sacrifica un poco de alcance en aras de una mayor rapidez de ataque."
+
+[AOCWeapon_SwordOfWar]
+WeaponName="Espada de guerra"
+WeaponDescription="Se trata de una espada de mano y media que ofrece un poco más de velocidad a cambio de un menor daño."
+
+[AOCWeapon_Fork]
+WeaponName="Horca militar"
+WeaponDescription="Es una lanza más corta con dos puntas largas. Su menor alcance hace que sea más rápida de usar."
+
+[AOCWeapon_Brandistock]
+WeaponName="Corcesca"
+WeaponDescription="Se trata de una lanza de tres puntas capaz de infligir un gran daño en una lanzada. Por su peso y longitud, es algo lenta de blandir."
+
+[AOCWeapon_Spear]
+WeaponName="Lanza"
+WeaponDescription="La lanza de carga tiene la ventaja del alcance, al ser considerablemente más larga que ninguna otra arma del arsenal."
+
+[AOCWeapon_Broadsword]
+WeaponName="Espada de hoja ancha"
+WeaponDescription="La espada de hoja ancha es un arma muy eficaz, es bastante rápida y causa un daño razonable. Un arma muy completa."
+
+[AOCWeapon_NorseSword]
+WeaponName="Espada nórdica"
+WeaponDescription="Espada de doble filo muy rápida que tiene un buen alcance y estocada pero poca capacidad de corte."
+
+[AOCWeapon_Falchion]
+WeaponName="Alfanje"
+WeaponDescription="Espada curva de un solo filo de considerable potencia y velocidad pero alcance limitado."
+
+[AOCWeapon_Mace]
+WeaponName="Maza"
+WeaponDescription="La maza barreteada es un arma mortífera que se usa para apabullar a los rivales a base de golpes continuos. Causa más daño que la espada de hoja ancha y es algo más rápida, si bien su alcance es bastante menor."
+
+[AOCWeapon_DoubleAxe]
+WeaponName="Hacha doble"
+WeaponDescription="El hacha doble es un arma devastadora, eso sí, su enorme daño de corte tiene un precio: es muy pesada y lenta a la hora de encadenar golpes."
+
+[AOCWeapon_ThrowingAxe]
+WeaponName="Hacha arrojadiza"
+WeaponDescription="Arma arrojadiza pesada que se puede llevar en cantidades pequeñas."
+
+[AOCWeapon_ThrowingKnife]
+WeaponName="Cuchillo arrojadizo"
+WeaponDescription="Arma arrojadiza ligera que se puede llevar en cantidades mayores."
+
+[AOCWeapon_OilPot]
+WeaponName="Pote de aceite"
+WeaponDescription="Vasija de arcilla que se llena con líquidos muy inflamables y estalla en llamas al romperse. Como no puede bloquearse, resulta excelente contra portadores de escudo tenaces."
+
+[AOCWeapon_MorningStar]
+WeaponName="Lucero del alba"
+WeaponDescription="Se trata de una maza de largo alcance que inflige un poco menos de daño y tiene una cadencia de ataque moderada."
+
+[AOCWeapon_WarAxe]
+WeaponName="Hacha de guerra"
+WeaponDescription="El hacha de guerra de una mano es el arma del soldado con el golpe más poderoso. A cambio pierde algo de velocidad y alcance."
+
+[AOCWeapon_WarHammer]
+WeaponName="Martillo de guerra"
+WeaponDescription="Se trata de un arma de corta distancia que puede perforar hasta la más gruesa de las armaduras. Causa un daño enorme, pero su alcance y velocidad son modestos."
+
+[AOCWeapon_BroadDagger]
+WeaponName="Daga de hoja ancha"
+WeaponDescription="Se trata de un arma muy simple, diseñada principalmente para dar cuchilladas y cortar la carne del enemigo. La anchura de su base le confiere un gran equilibrio, por lo que es el arma más rápida del juego."
+
+[AOCWeapon_HuntingKnife]
+WeaponName="Cuchillo de caza"
+WeaponDescription="Es un cuchillo increíblemente rápido con una gran capacidad de corte, aunque no muy eficaz para estoquear."
+
+[AOCWeapon_ThrustDagger]
+WeaponName="Puñal"
+WeaponDescription="Daga puntiaguda diseñada para apuñalar. Su punta le permite penetrar prácticamente cualquier armadura."
+
+[AOCWeapon_JavelinThrow]
+WeaponName="Jabalina"
+WeaponDescription="La jabalina es más un arma híbrida que un arma de larga distancia; destaca en el combate a media y corta distancia y también puede usarse con eficacia en el cuerpo a cuerpo."
+
+[AOCWeapon_ShortSpearThrow]
+WeaponName="Lanza corta"
+WeaponDescription="Una versión más ligera de la jabalina que causa menos daño pero puede arrojarse más rápido y más lejos."
+
+[AOCWeapon_HeavyJavelinThrow]
+WeaponName="Jabalina pesada"
+WeaponDescription="Una versión más pesada que la jabalina que causa más daño pero es más lenta de lanzar y no llega tan lejos."
+
+[AOCWeapon_JavelinMelee]
+WeaponName="Jabalina"
+WeaponDescription="La jabalina es más un arma híbrida que un arma de larga distancia; destaca en el combate a media y corta distancia y también puede usarse con eficacia en el cuerpo a cuerpo."
+
+[AOCWeapon_ShortSpearMelee]
+WeaponName="Lanza corta"
+WeaponDescription="Se trata de una versión más ligera de la jabalina que causa menos daño pero puede arrojarse más rápido y más lejos."
+
+[AOCWeapon_HeavyJavelinMelee]
+WeaponName="Jabalina pesada"
+WeaponDescription="Una versión más pesada que la jabalina que causa más daño pero es más lenta de lanzar y no llega tan lejos."
+
+[AOCWeapon_Flail]
+WeaponName="Mangual"
+WeaponDescription="El mangual es el arma menos predecible del juego. Tiene un alcance corto-medio y es el arma de caballero más rápida. Causa un daño razonable pero es fácil defenderse de ella porque todos sus ataques tienen la misma ejecución. El mangual también es una herramienta excelente para controlar multitudes y los que saben manejarla bien son capaces de despachar fácilmente a varios rivales al mismo tiempo."
+
+[AOCWeapon_PaviseShield]
+WeaponName="Pavés"
+WeaponDescription="Se trata de un escudo especial solo disponible con las ballestas; el pavés puede plantarse en el suelo para proporcionar cobertura móvil al ballestero y darle la oportunidad de ocultarse mientras recarga su arma."
+
+[AOCWeapon_PaviseShield_Agatha]
+WeaponName="Pavés"
+WeaponDescription="Se trata de un escudo especial solo disponible con las ballestas; el pavés puede plantarse en el suelo para proporcionar cobertura móvil al ballestero y darle la oportunidad de ocultarse mientras recarga su arma."
+
+[AOCWeapon_PaviseShield_Mason]
+WeaponName="Pavés"
+WeaponDescription="Se trata de un escudo especial solo disponible con las ballestas; el pavés puede plantarse en el suelo para proporcionar cobertura móvil al ballestero y darle la oportunidad de ocultarse mientras recarga su arma."
+
+[AOCWeapon_Maul]
+WeaponName="Mazo"
+WeaponDescription="Se trata de una almádena modificada para resultar más feroz en combate. Es el arma cuerpo a cuerpo con el golpe más dañino del arsenal y cuenta también con un alcance considerable, aunque es increíblemente pesado y, por tanto, lento."
+
+[AOCWeapon_Buckler]
+WeaponName="Rodela"
+WeaponDescription="Escudo pequeño para una mano que ofrece menos protección contra armas de larga distancia pero que no resta demasiada agilidad a su portador."
+
+[AOCWeapon_Buckler_Agatha]
+WeaponName="Rodela"
+WeaponDescription="Escudo pequeño para una mano que ofrece menos protección contra armas de larga distancia pero que no resta demasiada agilidad a su portador."
+
+[AOCWeapon_Buckler_Mason]
+WeaponName="Rodela"
+WeaponDescription="Escudo pequeño para una mano que ofrece menos protección contra armas de larga distancia pero que no resta demasiada agilidad a su portador."
+
+[AOCWeapon_Heater_Agatha]
+WeaponName="Escudo en forma de almendra"
+WeaponDescription="Se trata de un escudo metálico mediano que ofrece una buena protección sin ralentizar demasiado al portador."
+
+[AOCWeapon_Heater_Mason]
+WeaponName="Escudo en forma de almendra"
+WeaponDescription="Se trata de un escudo metálico mediano que ofrece una buena protección sin ralentizar demasiado al portador."
+
+[AOCWeapon_TowerShield]
+WeaponName="Escudo rectangular"
+WeaponDescription="Escudo de gran tamaño que cubre mucho y ofrece una protección óptima pero es pesado y puede limitar los tiempos de reacción del portador."
+
+[AOCWeapon_TowerShield_Agatha]
+WeaponName="Escudo rectangular"
+WeaponDescription="Escudo de gran tamaño que cubre mucho y ofrece una protección óptima pero es pesado y puede limitar los tiempos de reacción del portador."
+
+[AOCWeapon_TowerShield_Mason]
+WeaponName="Escudo rectangular"
+WeaponDescription="Escudo de gran tamaño que cubre mucho y ofrece una protección óptima pero es pesado y puede limitar los tiempos de reacción del portador."
+
+[AOCWeapon_Kite_Agatha]
+WeaponName="Escudo de lágrima"
+WeaponDescription="Escudo grande que ofrece gran protección pero que ralentiza ligeramente al portador."
+
+[AOCWeapon_Kite_Mason]
+WeaponName="Escudo de lágrima"
+WeaponDescription="Escudo grande que ofrece gran protección pero que ralentiza ligeramente al portador."
+
+[AOCWeapon_ProjBodkin]
+WeaponName="Flecha de punta de aguja"
+WeaponDescription="Estas flechas tienen una punta estrecha y una mayor capacidad de perforar armaduras que las de punta ancha, por lo que son las mejores para acabar con unidades pesadas como los soldados de vanguardia y caballeros."
+
+[AOCWeapon_ProjBroadhead]
+WeaponName="Flecha de punta ancha"
+WeaponDescription="Esta flecha causa grandes heridas y causa más daño a las tropas con poca armadura, como el arquero y el soldado."
+
+[AOCWeapon_ProjFireArrow]
+WeaponName="Flecha incendiaria"
+WeaponDescription="La punta de esta flecha está especialmente diseñada para llevar materiales en llamas. Una vez empapada en aceite y prendida, no se apaga durante el vuelo."
+
+[AOCWeapon_GrandMace]
+WeaponName="Gran maza"
+WeaponDescription="Se trata de un garrote metálico enorme a dos manos con buen equilibrio que causa daños contundentes con una velocidad y alcance razonables."
+
+[AOCDmgType_PierceProj]
+DamageTypeDescript="Perforación del proyectil"
+
+[AOCDmgType_Blunt]
+DamageTypeDescript="Contundente"
+
+[AOCDmgType_Burn]
+DamageTypeDescript="Quemadura"
+
+[AOCDmgType_Generic]
+DamageTypeDescript="Genérico"
+
+[AOCDmgType_Pierce]
+DamageTypeDescript="Perforante"
+
+[AOCDmgType_PierceBlunt]
+DamageTypeDescript="Mezcla perforante/contundente"
+
+[AOCDmgType_Swing]
+DamageTypeDescript="Corte"
+
+[AOCDmgType_SwingBlunt]
+DamageTypeDescript="Tajo"
+
+[AOCView_HUD_ClassSelect]
+ArcherDescription="El arquero es el especialista de las armas de larga distancia; es mejor utilizarlo como apoyo para castigar atacar a enemigos larga o media a distancia. Es vulnerable en el cuerpo a cuerpo."
+ArcherSpecial="Pícaro: causa 50% más de daño al apuñalar por la espalda."
+MaaDescription="El soldado es el hombre de armas cuerpo a cuerpo más ligero; confía fuertemente en su velocidad y capacidad para esquivar golpes sin sufrir daño."
+MaaSpecial="Escurridizo: puede esquivar."
+VanguardDescription="Los caballeros de vanguardia son una fuerza imponente y agresiva que forma la primera línea de un ejército. Sus armas tienen un larguísimo alcance y causan un daño increíble."
+VanguardSpecial="Carga: pueden esprintar para atacar y entrar en combate."
+KnightDescription="Es la unidad cuerpo a cuerpo y de avanzadilla más poderosa del campo de batalla. Su capacidad de infligir daño y niveles de armadura se ven contrarrestados por su falta de agilidad y armas generalmente más lentas."
+KnightSpecial="Avanzadilla: pueden absorber daño adicional y necesitan menos aguante para bloquear golpes."
+
+[AOCFFAGRI]
+FFAObjectiveName="Todos contra todos"
+FFAObjectiveDescription="Gana el jugador con mayor puntuación al término del límite de tiempo."
+
+[AOCTDGRI]
+TDObjectiveName="Todos contra todos por equipos"
+TDObjectiveDescription="Gana el primer equipo que mata a todos los refuerzos enemigos."
+
+[AOCLTSGRI]
+LTSObjectiveName="Último equipo en pie"
+LTSObjectiveDescription="Rondas eliminatorias; gana el primer equipo que obtiene 7 victorias."
+
+[AOCCTFGRI]
+CTFObjectiveName="Capturar la bandera"
+CTFObjectiveDescription="Hay que capturar la bandera del enemigo y llevársela a la base."
+CTFStatusText="{Cur} de {Max} {Team} banderas capturadas."
+
+[AOCKOTHGRI]
+KOTHObjectiveName=Rey de la colina
+KOTHObjectiveDescription=¡Captura y defiende la colina durante un tiempo para ganar!
+
+
+[AOCSystemMessages]
+; ***********************
+; System Messages 
+; ***********************
+
+; {EXTRA1} to be replaced by the player's name
+AllSystemMessages[0]=¡{EXTRA1} ha soltado la bandera!
+; {EXTRA1} to be replaced by the player's name
+; {EXTRA2} to be replaced by Team name;
+AllSystemMessages[1]=¡{EXTRA1} ha capturado la bandera para {EXTRA2}!
+; {EXTRA1} to be replaced by Team Name.
+AllSystemMessages[2]=¡Falta capturar una bandera para que gane {EXTRA1}!
+; {EXTRA1} to be replaced by killer's name.
+; {EXTRA2} to be replaced by dead player's name.
+AllSystemMessages[3]=¡{EXTRA1} ha matado a {EXTRA2}, primera víctima!
+; {EXTRA1} to be replaced by player's name
+AllSystemMessages[4]=¡{EXTRA1} va en cabeza!
+; {EXTRA1} to be replaced by time (number)
+; {EXTRA2} to be replaced by proper measurement of time (minutes, seconds, hours?)
+AllSystemMessages[5]={EXTRA1} {EXTRA2} es lo que queda de batalla.
+; {EXTRA1} to be replaced by team name
+; {EXTRA2} to be replaced by actual % number
+AllSystemMessages[6]={EXTRA1} tiene una marca de capturas del {EXTRA2}.
+; {EXTRA1} to be replaced by team name.
+AllSystemMessages[7]=¡El equipo {EXTRA1} gana esta ronda!
+; {EXTRA1} to be replaced by team name.
+AllSystemMessages[8]=¡Falta una ronda para que gane EXTRA1}!
+; Draw as in Tie.
+AllSystemMessages[9]=¡Empate!
+; {EXTRA1} replaced by team name
+; {EXTRA2} replaced by % number
+AllSystemMessages[10]=Los recursos de {EXTRA1} se han reducido un {EXTRA2}.
+; {EXTRA1} replaced by Player Name.
+; {EXTRA2} replaced by Team name.
+AllSystemMessages[11]=¡{EXTRA1} se apunta la última muerte para {EXTRA2}!
+; {EXTRA1} replaced by Player Name.
+; {EXTRA2} replaced by Team name.
+AllSystemMessages[12]=¡{EXTRA1} se apunta la primera víctima para {EXTRA2}!
+; {EXTRA1} replaced by Player name.
+AllSystemMessages[13]=¡{EXTRA1} reaparecerá como rey en 10 segundos!
+; {EXTRA1} replaced by % number.
+AllSystemMessages[14]=¡Al trasto le queda un {EXTRA1} del camino!
+; {EXTRA1} replaced by the team name.
+AllSystemMessages[15]=¡La victoria es de {EXTRA1}!
+AllSystemMessages[16]=¡Un administrador ha finalizado la partida!
+; {EXTRA1} replaced by actual objective description.
+AllSystemMessages[17]=Objetivo completado: {EXTRA1}
+; {EXTRA1} replaced by actual objective description.
+AllSystemMessages[18]=Objetivo no completado: {EXTRA1}
+AllSystemMessages[19]=Queda la mitad de la batalla.
+; {EXTRA1} replaced by number of minutes remaining.
+AllSystemMessages[20]=Quedan {EXTRA1} minutos de batalla.
+; {EXTRA1} y {EXTRA2} son nombres de jugadores
+AllSystemMessages[21]={EXTRA1} ha promovido una votación para expulsar a {EXTRA2}. Pulsa Insertar para votar a favor o Suprimir para votar en contra.
+; {EXTRA2} es un porcentaje y {EXTRA1} es un nombre de jugador
+AllSystemMessages[22]={EXTRA1} ha sido expulsado por un {EXTRA2}% de votos a favor
+; {EXTRA1} es un nombre de jugador. {EXTRA2} es un nombre de mapa;
+AllSystemMessages[23]={EXTRA1} ha promovido una votación para cambiar el mapa a {EXTRA2}. Pulsa Insertar para votar a favor o Suprimir para votar en contra.
+; {EXTRA2} es un porcentaje y {EXTRA1} es un nombre de mapa.
+AllSystemMessages[24]=La votación para cambiar al mapa {EXTRA1} ha resultado favorable con un {EXTRA2}% de los votos
+; {EXTRA1} es un nombre de jugador
+AllSystemMessages[25]={EXTRA1} ha promovido una votación para reiniciar la partida. Pulsa Insertar para votar a favor o Suprimir para votar en contra.
+; {EXTRA1} es un porcentaje
+AllSystemMessages[26]=La votación para reiniciar la partida ha resultado favorable con un {EXTRA2}% de los votos
+; {EXTRA1} y {EXTRA2} son porcentajes.
+AllSystemMessages[27]=La votación no ha salido adelante. {EXTRA1}% ha votado a favor, pero se necesita un mínimo del {EXTRA2}% de votos.
+; {EXTRA1} y {EXTRA2} son números. 
+AllSystemMessages[28]=La votación no ha salido adelante porque no han votado suficientes jugadores. Solo lo hicieron {EXTRA1} de {EXTRA2} jugadores con derecho a voto
+; {EXTRA1} es un nombre de jugador
+AllSystemMessages[29]=El administrador {EXTRA1} ha puesto el juego en pausa.
+; {EXTRA1} es el número de segundos. {EXTRA2} es un porcentaje.
+AllSystemMessages[30]=Quedan {EXTRA1} segundos para votar. Hasta ahora, ha votado a favor un {EXTRA2}%.
+; {EXTRA1} y {EXTRA2} son números.
+AllSystemMessages[31]={EXTRA1} ha votado a favor; {EXTRA2} ha votado en contra.
+AllSystemMessages[32]=El equilibrio automático está en progreso...
+; {EXTRA1} es un nombre de jugador
+AllSystemMessages[33]={EXTRA1} se ha unido a la batalla.
+; {EXTRA1} es un nombre de jugador
+AllSystemMessages[34]={EXTRA1} ha abandonado la batalla.
+; ***********************
+; Private Messages
+; ***********************
+; {EXTRA1} replaced by number of seconds.
+AllPrivateNotifs[0]=Quedan {EXTRA1} segundos para recuperarse.
+; {EXTRA1} replaced by number of times to capture.
+AllPrivateNotifs[1]=¡Captura la bandera del enemigo {EXTRA1} veces para ganar!
+AllPrivateNotifs[2]=Gana el jugador con más muertes al final de la partida.
+; {EXTRA1} replaced by number of minutes
+AllPrivateNotifs[3]=¡Captura y defiende la colina durante {EXTRA1} minutos para ganar!
+; {EXTRA1} replaced by number of rounds
+AllPrivateNotifs[4]=El primer equipo que venza en {EXTRA1} rondas gana la partida.
+AllPrivateNotifs[5]=¡Elimina las fuerzas enemigas!
+AllPrivateNotifs[6]=Eres el REY. ¡Que no te maten!
+; {EXTRA1} replaced by objective description
+AllPrivateNotifs[7]=Próximo objetivo: {EXTRA1}
+; {EXTRA1} replaced by objective description
+AllPrivateNotifs[8]=Primer objetivo: {EXTRA1}
+AllPrivateNotifs[9]=Estás en el equipo que ataca.
+AllPrivateNotifs[10]=Estás en el equipo que defiende.
+; {EXTRA1} is the team name.
+; {EXTRA2} is the class name
+AllPrivateNotifs[11]=Reaparecerás como {EXTRA2} del {EXTRA1}.
+AllPrivateNotifs[12]=¡Ahora mismo no puedes decir eso!
+AllPrivateNotifs[13]=¡Ahora no puedes lanzar un grito de guerra!
+; {EXTRA1} is the team name.
+; {EXTRA2} is the class name
+AllPrivateNotifs[14]=Reaparecerás como {EXTRA2} del {EXTRA1}.
+AllPrivateNotifs[15]=Debe transcurrir más tiempo para poder promover una nueva votación
+AllPrivateNotifs[16]=Solo los administradores pueden promover votaciones
+AllPrivateNotifs[17]=Ya hay una votación en curso
+AllPrivateNotifs[18]=No se puede encontrar a ese jugador
+AllPrivateNotifs[19]=Las expulsiones por votación están deshabilitadas en este servidor
+AllPrivateNotifs[20]=No se puede votar la expulsión de un administrador
+AllPrivateNotifs[21]=En este servidor no se puede votar la expulsión de enemigos
+AllPrivateNotifs[22]=El mapa no existe o está deshabilitado
+AllPrivateNotifs[23]=Los cambios de mapa por votación están deshabilitados en este servidor
+AllPrivateNotifs[24]=Los reinicios de mapa por votación están deshabilitados en este servidor
+AllPrivateNotifs[25]=Has votado a favor
+AllPrivateNotifs[26]=Has votado en contra
+AllPrivateNotifs[27]=Se te está cambiando al otro equipo.
+AllPrivateNotifs[28]=Auto destrucción en 5 segundos.
